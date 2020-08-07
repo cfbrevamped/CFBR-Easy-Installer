@@ -49,7 +49,7 @@ Please uninstall any uniform packs when using this mod. We will fix this in the 
 5) Finally, launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/3DROoLk.png). After that, launch the game and enjoy the mods!
 
 ## PS3 (Disc Copy)
-###### These instructions are for use with a disc copy of the game contents of NCAA Football 14 (game ID BLUS31159). If you already have HEN and multiMAN installed on your PS3, you can skip to step 2.
+###### These instructions are for use with a disc copy of the game contents of NCAA Football 14 (game ID BLUS31159). If you already have HEN and multiMAN installed on your PS3, you can skip to step 2. If you have also copied your disc to your PS3's hard drive already while installing prior mods, you can skip all the way ahead to step 5.
 
 #### Prerequisites
 You will need a PS3 console (any model), a USB drive (8 GB or larger), some kind of computer (any Windows PC, Mac, or even Chromebook will work) and either a game disc or a copy of the game files. Everything here is only needed for first time setup, aside from the console itself of course.
