@@ -20,9 +20,9 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 You **DO NOT** need V1 of the Easy Installer or any other mods installed before using V2 of the Easy Installer. Please click on the link below to jump to the appropriate instructions for your version of the game:
 
 - [PC Disc Copy (BLUS31159) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-disc-copy)
-- [PC Digital Copy (NPUB31137) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-digital-copy)
+- [PC Digital PSN Store Copy (NPUB31137) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-digital-copy)
 - [PS3 Disc Copy (BLUS31159) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#ps3-disc-copy)
-- [PS3 Digital Copy (NPUB31137) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#ps3-digital-copy)
+- [PS3 Digital PSN Store Copy (NPUB31137) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#ps3-digital-copy)
 - [XBOX 360 Disc and Digital Copy Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#xbox-360-digital-and-disc-copies)
 
 Please uninstall any uniform packs when using this mod. We will fix this in the future, but using uniform packs with our mod can cause issues with Tennessee and Texas A&M uniforms appearing incorrectly. Also, please download the latest roster from **sean15012** on PS3 or **OutrunFire0290** on XBOX for the best experience. PC users will automatically have a roster called **VIKES_CFBR** installed when they install the mod. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
@@ -39,7 +39,7 @@ Please uninstall any uniform packs when using this mod. We will fix this in the 
 4) Next, [download the Easy Installer PKG file from this link](https://drive.google.com/file/d/1uSJU_ObrwUiTk6EA1R-fNPqVYM7PBMKa/view?usp=sharing).
 5) Finally, simply launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/JGcJmNB.png). After that, launch the game and enjoy the mods!
 
-## PC (Digital Copy)
+## PC (Digital PSN Store Copy)
 ###### These instructions are for use with a PSN digital copy of the game contents of NCAA Football 14 (game ID NPUB31137). Only use these instructions if you bought the game from the PSN Store.
 
 1) Before using the mod, you must install RPCS3. You can find the [quickstart guide to set up the emulator here](https://rpcs3.net/quickstart). If you have any questions about RPCS3 in general such as good settings to use, feel free to ask in the [official RPCS3 Discord server](https://discord.com/invite/Af7H9yp).
@@ -62,7 +62,7 @@ You will need a PS3 console (any model), a USB drive (8 GB or larger), some kind
 6) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR PS3 Easy Installer V2 Part 1.pkg` and `CFBR PS3 Easy Installer V2 Part 2.pkg`. Select Part 1 and wait for it to finish installing, then select part 2 and wait for that to finish installing. Please note part 1 will take longer than part 2.
 7) Once both parts are finished installing, you can remove the USB drive. **MAKE SURE YOU HAVE ALREADY EJECTED YOUR GAME DISC**. Now launch multiMAN. You should see a CFBR icon where the NCAA 14 icon used to be. Simply launch the game by pressing X. It will kick you back out to the main PS3 menu, but you wil see a disc icon even though there is no disc inserted. Simply click on that disc icon and it will launch NCAA 14 with our mods installed!
 
-## PS3 (Digital Copy)
+## PS3 (Digital PSN Store Copy)
 ###### These instructions are for use with a PSN digital copy of the game contents of NCAA Football 14 (game ID NPUB31137). Only use these instructions if you bought the game from the PSN Store. If you already have HEN and multiMAN installed on your PS3, you can skip to step 2.
 
 #### Prerequisites
