@@ -19,11 +19,11 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 ## Installation Guide
 You **DO NOT** need V1 of the Easy Installer or any other mods installed before using V2 of the Easy Installer. Please click on the link below to jump to the appropriate instructions for your version of the game:
 
-- [PC Disc Copy (BLUS31159) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-disc-copy)
-- [PC Digital PSN Store Copy (NPUB31137) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-digital-copy)
-- [PS3 Disc Copy (BLUS31159) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#ps3-disc-copy)
-- [PS3 Digital PSN Store Copy (NPUB31137) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#ps3-digital-copy)
-- [XBOX 360 Disc and Digital Copy Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#xbox-360-digital-and-disc-copies)
+- [<img width="20" src="https://lh3.googleusercontent.com/proxy/cdyTCKt-Txd-dQunkZrdhDhegA3MW4fvqqwVvyZ1hCKey5kRLAslOSEOU2zI1NtDj3a8Nr4FkQUXKxC038J15RL0iQHJbU39HTcBSZXafoJ4sft6rpXsLuqRwC2U9thPa6oDoMveWnQHQQ"> PC Disc Copy (BLUS31159) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-disc-copy)
+- [<img width="20" src="https://lh3.googleusercontent.com/proxy/cdyTCKt-Txd-dQunkZrdhDhegA3MW4fvqqwVvyZ1hCKey5kRLAslOSEOU2zI1NtDj3a8Nr4FkQUXKxC038J15RL0iQHJbU39HTcBSZXafoJ4sft6rpXsLuqRwC2U9thPa6oDoMveWnQHQQ"> PC Digital PSN Store Copy (NPUB31137) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-digital-copy)
+- [<img width="20" src="https://www.freepnglogos.com/uploads/playstation-png-logo/navy-playstation-png-logo-5.png"> PS3 Disc Copy (BLUS31159) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#ps3-disc-copy)
+- [<img width="20" src="https://www.freepnglogos.com/uploads/playstation-png-logo/navy-playstation-png-logo-5.png"> PS3 Digital PSN Store Copy (NPUB31137) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#ps3-digital-copy)
+- [<img width="20" src="https://i.imgur.com/FMNWebJ.png"> XBOX 360 Disc and Digital Copy Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#xbox-360-digital-and-disc-copies)
 
 Please uninstall any uniform packs when using this mod. We will fix this in the future, but using uniform packs with our mod can cause issues with Tennessee and Texas A&M uniforms appearing incorrectly. Also, please download the latest roster from **sean15012** on PS3 or **OutrunFire0290** on XBOX for the best experience. PC users will automatically have a roster called **VIKES_CFBR** installed when they install the mod. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
 
