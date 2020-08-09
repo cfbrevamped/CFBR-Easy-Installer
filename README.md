@@ -40,7 +40,7 @@ Please uninstall any uniform packs when using this mod. We will fix this in the 
 5) Finally, simply launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/JGcJmNB.png). After that, launch the game and enjoy the mods!
 
 ## PC (Digital PSN Store Copy) <img width="40" src="https://i.redd.it/g5476jkjqgh31.jpg"> 
-### **ONLY USE THIS IF YOU BOUGHT THE GAME ON THE PSN STORE!!! IF YOU ARE UNSURE, YOU SHOULD PROBABLY USE THE DISC INSTALLER [HERE](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-disc-copy)**
+### **ONLY USE THIS IF YOU BOUGHT THE GAME ON THE PSN STORE!!! IF YOU ARE UNSURE, YOU SHOULD PROBABLY USE THE DISC INSTALLER [HERE](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-disc-copy-)**
 ###### These instructions are for use with a PSN digital copy of the game contents of NCAA Football 14 (game ID NPUB31137). Only use these instructions if you bought the game from the PSN Store.
 
 1) Before using the mod, you must install RPCS3. You can find the [quickstart guide to set up the emulator here](https://rpcs3.net/quickstart). If you have any questions about RPCS3 in general such as good settings to use, feel free to ask in the [official RPCS3 Discord server](https://discord.com/invite/Af7H9yp).
@@ -64,7 +64,7 @@ You will need a PS3 console (any model), a USB drive (8 GB or larger), some kind
 7) Once both parts are finished installing, you can remove the USB drive. **MAKE SURE YOU HAVE ALREADY EJECTED YOUR GAME DISC**. Now launch multiMAN. Simply launch the game by pressing X. It will kick you back out to the main PS3 menu, but you wil see a disc icon even though there is no disc inserted. Simply click on that disc icon and it will launch NCAA 14 with our mods installed!
 
 ## PS3 (Digital PSN Store Copy) <img width="40" src="https://www.freepnglogos.com/uploads/playstation-png-logo/navy-playstation-png-logo-5.png">
-### **ONLY USE THIS VERSION IF YOU BOUGHT THE GAME ON THE PSN STORE!!! IF YOU ARE UNSURE, YOU SHOULD PROBABLY USE THE DISC INSTALLER [HERE](https://github.com/cfbrevamped/CFBR-Easy-Installer#ps3-disc-copy)**
+### **ONLY USE THIS VERSION IF YOU BOUGHT THE GAME ON THE PSN STORE!!! IF YOU ARE UNSURE, YOU SHOULD PROBABLY USE THE DISC INSTALLER [HERE](https://github.com/cfbrevamped/CFBR-Easy-Installer#ps3-disc-copy-)**
 ###### These instructions are for use with a PSN digital copy of the game contents of NCAA Football 14 (game ID NPUB31137). Only use these instructions if you bought the game from the PSN Store. If you already have HEN and multiMAN installed on your PS3, you can skip to step 2.
 
 #### Prerequisites
