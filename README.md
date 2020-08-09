@@ -27,7 +27,7 @@ You **DO NOT** need V1 of the Easy Installer or any other mods installed before 
 
 Please uninstall any uniform packs when using this mod. We will fix this in the future, but using uniform packs with our mod can cause issues with Tennessee and Texas A&M uniforms appearing incorrectly. Also, please download the latest roster from **sean15012** on PS3 or **OutrunFire0290** on XBOX for the best experience. PC users will automatically have a roster called **VIKES_CFBR** installed when they install the mod. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
 
-## PC (Disc Copy)
+## PC (Disc Copy) <img width="40" src="https://lh3.googleusercontent.com/proxy/cdyTCKt-Txd-dQunkZrdhDhegA3MW4fvqqwVvyZ1hCKey5kRLAslOSEOU2zI1NtDj3a8Nr4FkQUXKxC038J15RL0iQHJbU39HTcBSZXafoJ4sft6rpXsLuqRwC2U9thPa6oDoMveWnQHQQ"> 
 ###### These instructions are for use with a disc copy of the game contents of NCAA Football 14 (game ID BLUS31159).
 
 1) Before using the mod, you must install RPCS3. You can find the [quickstart guide to set up the emulator here](https://rpcs3.net/quickstart). If you have any questions about RPCS3 in general such as good settings to use, feel free to ask in the [official RPCS3 Discord server](https://discord.com/invite/Af7H9yp).
@@ -39,7 +39,7 @@ Please uninstall any uniform packs when using this mod. We will fix this in the 
 4) Next, [download the Easy Installer PKG file from this link](https://drive.google.com/file/d/1uSJU_ObrwUiTk6EA1R-fNPqVYM7PBMKa/view?usp=sharing).
 5) Finally, simply launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/JGcJmNB.png). After that, launch the game and enjoy the mods!
 
-## PC (Digital PSN Store Copy)
+## PC (Digital PSN Store Copy) <img width="40" src="https://lh3.googleusercontent.com/proxy/cdyTCKt-Txd-dQunkZrdhDhegA3MW4fvqqwVvyZ1hCKey5kRLAslOSEOU2zI1NtDj3a8Nr4FkQUXKxC038J15RL0iQHJbU39HTcBSZXafoJ4sft6rpXsLuqRwC2U9thPa6oDoMveWnQHQQ"> 
 ### **ONLY USE THIS IF YOU BOUGHT THE GAME ON THE PSN STORE!!! IF YOU ARE UNSURE, YOU SHOULD PROBABLY USE THE DISC INSTALLER [HERE](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-disc-copy)**
 ###### These instructions are for use with a PSN digital copy of the game contents of NCAA Football 14 (game ID NPUB31137). Only use these instructions if you bought the game from the PSN Store.
 
@@ -49,7 +49,7 @@ Please uninstall any uniform packs when using this mod. We will fix this in the 
 4) Next, [download the Easy Installer PKG file from this link](https://drive.google.com/file/d/176C-03J_yBKw--mgU4Z8hMEuic6ECWtR/view?usp=sharing).
 5) Finally, launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/3DROoLk.png). After that, launch the game and enjoy the mods!
 
-## PS3 (Disc Copy)
+## PS3 (Disc Copy) <img width="40" src="https://www.freepnglogos.com/uploads/playstation-png-logo/navy-playstation-png-logo-5.png">
 ###### These instructions are for use with a disc copy of the game contents of NCAA Football 14 (game ID BLUS31159). If you already have HEN and multiMAN installed on your PS3, you can skip to step 2. If you have also copied your disc to your PS3's hard drive already while installing prior mods, you can skip all the way ahead to step 5.
 
 #### Prerequisites
@@ -63,7 +63,7 @@ You will need a PS3 console (any model), a USB drive (8 GB or larger), some kind
 6) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR PS3 Easy Installer V2 Part 1.pkg` and `CFBR PS3 Easy Installer V2 Part 2.pkg`. Select Part 1 and wait for it to finish installing, then select part 2 and wait for that to finish installing. Please note part 1 will take longer than part 2.
 7) Once both parts are finished installing, you can remove the USB drive. **MAKE SURE YOU HAVE ALREADY EJECTED YOUR GAME DISC**. Now launch multiMAN. Simply launch the game by pressing X. It will kick you back out to the main PS3 menu, but you wil see a disc icon even though there is no disc inserted. Simply click on that disc icon and it will launch NCAA 14 with our mods installed!
 
-## PS3 (Digital PSN Store Copy)
+## PS3 (Digital PSN Store Copy) <img width="40" src="https://www.freepnglogos.com/uploads/playstation-png-logo/navy-playstation-png-logo-5.png">
 ### **ONLY USE THIS VERSION IF YOU BOUGHT THE GAME ON THE PSN STORE!!! IF YOU ARE UNSURE, YOU SHOULD PROBABLY USE THE DISC INSTALLER [HERE](https://github.com/cfbrevamped/CFBR-Easy-Installer#ps3-disc-copy)**
 ###### These instructions are for use with a PSN digital copy of the game contents of NCAA Football 14 (game ID NPUB31137). Only use these instructions if you bought the game from the PSN Store. If you already have HEN and multiMAN installed on your PS3, you can skip to step 2.
 
@@ -76,7 +76,7 @@ You will need a PS3 console (any model), a USB drive (8 GB or larger), and some 
 4) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR PS3 Easy Installer V2 Part 1.pkg` and `CFBR PS3 Easy Installer V2 Part 2.pkg`. Select Part 1 and wait for it to finish installing, then select part 2 and wait for that to finish installing. Please note part 1 will take longer than part 2.
 5) Once both parts are finished installing, you can remove the USB drive. You should now see a CFBR logo instead of the typical NCAA 14 icon. Launch the game like normal and enjoy the mods!
 
-## XBOX 360 (Digital and Disc Copies)
+## XBOX 360 (Digital and Disc Copies) <img width="40" src="https://i.imgur.com/FMNWebJ.png">
 ###### These instructions are for use with the XBOX 360 version of the game. We apologize in advance for a lack of detailed instructions for XBOX 360 users. In all honesty, you're lucky to be getting an XBOX port of the mod at all with how long the conversion process is. We are working on a YouTube tutorial and will have updated instructions on this page soon, so look out for both of those. Also please note the Florida 2018 Homecoming and Texas A&M 2018 Throwback uniforms have some bugs right now, so please try to avoid using those two sets. This will be fixed soon, but we wanted to put out an XBOX port the same day we released PS3 and PC installers.
 ###### If you already have the game in XEX format, you can skip to step 2.
 #### Prerequisites
