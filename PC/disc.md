@@ -14,7 +14,7 @@
 ![this](https://i.imgur.com/cJrOFcx.png)
 
 4) Next, [download the Easy Installer PKG file from this link.](https://bit.ly/35QJ9ZV)
-  - If you receive a message that too many users have viewed or downloaded this file recently, [please use this link.](bit.ly/32Jp5XE)
+  - If you receive a message that too many users have viewed or downloaded this file recently, [please use this link.](https://bit.ly/32Jp5XE)
   
   ![this](https://www.geekrar.com/wp-content/uploads/2018/07/Bypass-Google-Drive-Download-Limit-Quota-Exceeded-Error.jpg)
 
