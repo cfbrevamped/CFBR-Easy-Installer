@@ -7,7 +7,6 @@
 Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pants, fields, gloves, logos, and more! [You can even have both teams wear colored jerseys](https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/Clemson-UNC.png)!
 
 - [Watch the trailer for the College Football Revamped ACC + FBS Independents Pack here](https://twitter.com/CFBRevamped/status/1307094068879597568)
-- [Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/V3.md)
 
 ---------
 ## Follow us for important updates and information
@@ -18,6 +17,7 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 ---------
 
 ## You <ins>DO NOT</ins> need any prior versions of the Easy Installer or any other mods installed before using V3 of the Easy Installer.
+## This mod <ins>INCLUDES ALL PRIOR VERSIONS</ins> and will overwrite any previously installed mods
 
 ---------
 
@@ -32,6 +32,9 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 ---------
 
 # College Football Revamped - Installation Guide
+
+- [Complete patch notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/V3.md)
+
 ## Select Your Device - (PC, PS3, or XBOX 360)
 | [![PC](https://i.dlpng.com/static/png/6744788_preview.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md)  | [![PS3](https://logonoid.com/images/playstation-3-logo.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md) | [![XBOX 360](https://i.pinimg.com/originals/79/48/90/794890a80e74dc1c0494d0cf2ecdc68b.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/index.md) |
 |:---:|:---:|:---:|
@@ -39,9 +42,13 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 
 ---------
 ## Future Releases (Dates TBD):
-- **v4:** App State, Georgia Southern, Charlotte, Coastal Carolina
+- **v4:** App State, Georgia Southern, Charlotte, and Coastal Carolina
 - **v5:** Big 12 - Part 1
 - **v6:** Big 12 - Part 2
+- **v7:** Big 10 - Part 1
+- **v8:** Big 10 - Part 2
+- **v9:** Pac-12 - Part 1
+- **v10:* Pac-12 - Part 2
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
