@@ -17,7 +17,7 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 ---------
 
 ## You <ins>DO NOT</ins> need any prior versions of the Easy Installer or any other mods installed before using V3 of the Easy Installer.
-## This mod <ins>INCLUDES ALL PRIOR VERSIONS</ins> and will overwrite any previously installed mods
+## This mod <ins>INCLUDES ALL PRIOR VERSIONS</ins> and will overwrite any previously installed mods. YOU DO NOT NEED TO DELETE V2 OR ANY PRIOR VERSIONS.
 
 ---------
 
