@@ -1,13 +1,13 @@
 # College Football Revamped
 
 <p align="center">
-  <img width="400" src="https://github.com/cfbrevamped/CFBR/blob/master/assets/images/CFBR.png">
+  <img width="400" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png">
 </p>
 
-Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pants, fields, gloves, logos, and more! [You can even have both teams wear colored jerseys](https://raw.githubusercontent.com/cfbrevamped/CFBR/master/assets/images/Clemson-UNC.png)!
+Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pants, fields, gloves, logos, and more! [You can even have both teams wear colored jerseys](https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/Clemson-UNC.png)!
 
 - [Watch the trailer for the College Football Revamped ACC + FBS Independents Pack here](https://twitter.com/CFBRevamped/status/1307094068879597568)
-- [Patch Notes](https://github.com/cfbrevamped/CFBR/blob/master/assets/release-notes/V3.md)
+- [Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/V3.md)
 
 ---------
 ## Follow us for important updates and information
@@ -33,9 +33,9 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 
 # College Football Revamped - Installation Guide
 ## Select Your Device - (PC, PS3, or XBOX 360)
-| [![PC](https://i.dlpng.com/static/png/6744788_preview.png)](https://github.com/cfbrevamped/CFBR/blob/master/PC/index.md)  | [![PS3](https://logonoid.com/images/playstation-3-logo.png)](https://github.com/cfbrevamped/CFBR/blob/master/PS3/index.md) | [![XBOX 360](https://i.pinimg.com/originals/79/48/90/794890a80e74dc1c0494d0cf2ecdc68b.png)](https://github.com/cfbrevamped/CFBR/blob/master/XBOX/index.md) |
+| [![PC](https://i.dlpng.com/static/png/6744788_preview.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md)  | [![PS3](https://logonoid.com/images/playstation-3-logo.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md) | [![XBOX 360](https://i.pinimg.com/originals/79/48/90/794890a80e74dc1c0494d0cf2ecdc68b.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/index.md) |
 |:---:|:---:|:---:|
-| [PC](https://github.com/cfbrevamped/CFBR/blob/master/PC/index.md) | [PS3](https://github.com/cfbrevamped/CFBR/blob/master/PS3/index.md) | [XBOX 360](https://github.com/cfbrevamped/CFBR/blob/master/XBOX/index.md) |
+| [PC](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md) | [PS3](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md) | [XBOX 360](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/index.md) |
 
 ---------
 ## Future Releases (Dates TBD):
