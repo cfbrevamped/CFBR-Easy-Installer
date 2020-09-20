@@ -2,7 +2,7 @@
 
 ---------
 ### - These instructions are only for users with a physical disc copy of NCAA Football 14 (game ID BLUS31159). 
-### - DO NOT USE THESE INSTRUCTIONS IF YOU BOUGHT THE GAME ON THE PSN STORE. CLICK [HERE](https://github.com/cfbrevamped/CFBR/blob/master/PS3/digital.md) FOR DIGITAL COPY INSTRUCTIONS.
+### - DO NOT USE THESE INSTRUCTIONS IF YOU BOUGHT THE GAME ON THE PSN STORE. CLICK [HERE](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/digital.md) FOR DIGITAL COPY INSTRUCTIONS.
 ---------
 
 ### Prerequisites:
