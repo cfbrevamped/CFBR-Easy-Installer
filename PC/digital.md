@@ -2,7 +2,7 @@
 
 ---------
 ### - These instructions are only for users who purchased a DIGITAL copy of NCAA Football 14 (game ID NPUB31137) on the PSN Store. 
-### - DO NOT USE THESE INSTRUCTIONS IF YOU HAVE A PHYSICAL COPY OF THE GAME. IF YOU ARE UNSURE, YOU SHOULD PROBABLY USE THE DISC INSTALLER [HERE](https://github.com/cfbrevamped/CFBR/blob/master/PC/disc.md).
+### - DO NOT USE THESE INSTRUCTIONS IF YOU HAVE A PHYSICAL COPY OF THE GAME. IF YOU ARE UNSURE, YOU SHOULD PROBABLY USE THE DISC INSTALLER [HERE](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/disc.md).
 ---------
 
 ## PC (PSN Store Digital Copy) Download Instructions:
