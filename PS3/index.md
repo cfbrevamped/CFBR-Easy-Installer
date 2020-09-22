@@ -12,7 +12,7 @@ For the best experience, download the latest roster from **K-Weezy-8**. This ros
 ---------
 
 ## Select Your Game Copy - (Physical Disc or PSN Store Digital Download)
-| [![Physical Disc Copy](https://art.gametdb.com/ps3/discM/US/BLUS31159.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/disc.md)  | [![PSN Store Digital Copy](https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS-store-logo.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/digital.md)
+| <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/disc.md"><img width="400" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/BLUS31159.png"></a>  | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/digital.md"><img width="400" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS-store-logo.png">
 |:---:|:---:|
 | [Physical Disc Copy](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/disc.md) | [PSN Store Digital Copy](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/digital.md) |
 
