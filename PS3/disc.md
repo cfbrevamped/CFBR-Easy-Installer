@@ -23,14 +23,12 @@ Everything here is only needed for first time setup, aside from the console itse
 3) Now, hover over the NCAA 14 icon and hit Triangle. A menu will pop up. Click copy, then click `PS3 HDD (/dev_hdd0)`. It will probably ask you "Do you want to copy the game from BD-ROM to internall HDD?". Select "yes".
 4) This should take anywhere from 15-30 minutes to copy all the files over. Once it is done, you can click Square to continue. Then eject your disc (you will never need your disc again, you can keep it in the case forever) and quit out of multiMAN. If you got an error saying the process was aborted, please clean your disc and try again. 
 5) Move over to your computer and download the following files:
-  - [**PART A (~3GB)**](https://bit.ly/3mAN3ME)
-  - [**PART B (~1GB)**](https://bit.ly/33K9pT4)
+  - [**PART A (~3GB)**](https://bit.ly/32QMB5d)
+  - [**PART B (~1GB)**](https://bit.ly/3ckeXYp)
   
-If you receive a message that too many users have viewed or downloaded this file recently, please use the following links:
-  - [**PART A (~3GB)**](https://bit.ly/33HPZOQ)
-  - [**PART B (~1GB)**](https://bit.ly/2H8iJbR)
-
-![this](https://www.geekrar.com/wp-content/uploads/2018/07/Bypass-Google-Drive-Download-Limit-Quota-Exceeded-Error.jpg)
+If you are unable to download the files from the links above, please use the following links:
+  - [**PART A (~3GB)**](https://bit.ly/35WwGnO)
+  - [**PART B (~1GB)**](https://bit.ly/3kBuKoB)
 
 6) Drag and drop both files onto the root of your USB drive (this means they should not be inside any folder).
 7) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR PS3 Easy Installer V3 Part A.pkg` and `CFBR PS3 Easy Installer V3 Part B.pkg`. Select Part A and wait for it to finish installing, then select Part B and wait for that to finish installing. Please note, Part A will take longer than Part B.
