@@ -1,4 +1,4 @@
-# <img width="50" src="https://i.redd.it/g5476jkjqgh31.jpg"> College Football Revamped - PC Download Instructions
+# <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> College Football Revamped - PC Download Instructions
 
 ## Please uninstall any uniform packs when using this mod
 We will fix this in the future, but for now, using uniform packs with our mod may cause issues with uniforms appearing correctly.
