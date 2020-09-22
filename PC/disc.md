@@ -13,11 +13,9 @@
 
 ![this](https://i.imgur.com/cJrOFcx.png)
 
-4) Next, [download the Easy Installer PKG file from this link.](https://bit.ly/35QJ9ZV)
-  - If you receive a message that too many users have viewed or downloaded this file recently, [please use this link.](https://bit.ly/32Jp5XE)
+4) Next, [download the Easy Installer PKG file from this link.](https://bit.ly/2ZYrMTh)
+  - If you unable to download from that link, [please use this link.](https://bit.ly/2RMLjBJ)
   
-  ![this](https://www.geekrar.com/wp-content/uploads/2018/07/Bypass-Google-Drive-Download-Limit-Quota-Exceeded-Error.jpg)
-
 5) Finally, simply launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/JGcJmNB.png). After that, launch the game and enjoy the mods!
 
 ---------
