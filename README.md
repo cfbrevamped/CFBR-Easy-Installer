@@ -36,7 +36,7 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 - [Complete patch notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/V3.md)
 
 ## Select Your Device - (PC, PS3, or XBOX 360)
-| [![PC](https://i.dlpng.com/static/png/6744788_preview.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md)  | [![PS3](https://logonoid.com/images/playstation-3-logo.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md) | [![XBOX 360](https://lh3.googleusercontent.com/proxy/N_00B8Ut0DtwygH3lfd__2VTXK-qxdyE_Ku4Vv5PXpNfxx3VvsQzEuYyXzctcQNP2Y3w6wSfEO-z3lAfqutk7GNOgtjPhc6RotZufgnq)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/index.md) |
+| [![PC](https://i.dlpng.com/static/png/6744788_preview.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md)  | [![PS3](https://logonoid.com/images/playstation-3-logo.png)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md) | [![XBOX 360](https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox.jpg)](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/index.md) |
 |:---:|:---:|:---:|
 | [PC](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md) | [PS3](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md) | [XBOX 360](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/index.md) |
 
