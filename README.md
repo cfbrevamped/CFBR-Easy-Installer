@@ -17,15 +17,13 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 ---------
 
 ## You <ins>DO NOT</ins> need any prior versions of the Easy Installer or any other mods installed before using V3 of the Easy Installer.
-## This mod <ins>INCLUDES ALL PRIOR VERSIONS</ins> and will overwrite any previously installed mods. YOU DO NOT NEED TO DELETE V2 OR ANY PRIOR VERSIONS.
+## This mod <ins>INCLUDES ALL PRIOR VERSIONS</ins> and will overwrite any previously installed mods. YOU DO NOT NEED TO DELETE V3 OR ANY PRIOR VERSIONS.
 
 ---------
 
 ## Known Mod Issues:
-- **Dynasty Crashing:** We are aware of users experiencing occassional crashes during dynasty games. We are currently investigating the root cause and hope to provide a fix in the near future. **Until a fix is released, we advise that you skip all cutscenes, especially the pregame introduction, studio updates, the halftime show, and postgame.**
-- **Syracuse Orange Helmet:** The Syracuse orange helmet has a gray facemask (should be navy). This will be fixed in a future release.
-- **Boston College:** BC recently revealed new uniforms, which we were unable to include in this release due to time. They will be added in the v4 release.
-- **Georgia, Pitt, and other recent uniform reveals:** We are working to the create new/updated uniforms as quickly as we can. We plan on adding as many as we can in the v4 release.
+- **Dynasty Crashing:** We are aware of users experiencing occassional crashes during dynasty games. The v4 release should significantly reduce, if not eliminate the frequency of crashes, however **we still advise that you skip all cutscenes, especially the pregame introduction, studio updates, the halftime show, and postgame.**
+- **Pink cleats for Charlotte, Coastal Carolina, App State, Georgia Southern, and Pitt in uniform select:** This will only show during uniform select. All team colors will properly show in game. A fix will be released in v5.
 
 Of course, if you have any additonal questions, please join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
 
@@ -42,7 +40,7 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 
 ---------
 ## Future Releases (Dates TBD):
-- **v4:** App State, Georgia Southern, Charlotte, and Coastal Carolina
+- **v3 and V4 XBOX Conversion** 
 - **v5:** Big 12 - Part 1
 - **v6:** Big 12 - Part 2
 - **v7:** Big 10 - Part 1
