@@ -40,7 +40,7 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 
 ---------
 ## Future Releases (Dates TBD):
-- **v3 and V4 XBOX Conversion** 
+- **v3 and v4 XBOX Conversion** 
 - **v5:** Big 12 - Part 1
 - **v6:** Big 12 - Part 2
 - **v7:** Big 10 - Part 1
