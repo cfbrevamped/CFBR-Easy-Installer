@@ -59,14 +59,18 @@ If your mod did not install correctly, please follow the troubleshooting instruc
 If you are experiencing an issue other than the ones listed below, please contact us on <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr).
 
 ### Georgia Southern has incorrect uniforms and helmets
-If Georgia Southern has 4 helmets (2 UMass helmets, one Navy helmet, and a Charlotte helmet) and UMass jerseys, **please reinstall Part A.** If this does not fix your problem, please contact us on <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr).
+If Georgia Southern has 4 helmets (2 UMass helmets, one Navy helmet, and a Charlotte helmet) and UMass jerseys, **please reinstall Part A.**
 
 <img height="300" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/install-check/incorrect-part-a.png">
 
+If this does not fix your problem, please contact us on <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr).
+
 ### Georgia Southern has two white helmets
-If Georgia Southern has their home navy jersey, but a white UMass helmet for their navy helmet, **please reinstall Part B.** If this does not fix your problem, please contact us on <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr).
+If Georgia Southern has their home navy jersey, but a white UMass helmet for their navy helmet, **please reinstall Part B.**
 
 <img height="300" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/install-check/no-patch.png">
+
+If this does not fix your problem, please contact us on <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr).
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
