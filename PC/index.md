@@ -1,9 +1,5 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> College Football Revamped - PC Download Instructions
 
-## Please uninstall any uniform packs when using this mod
-We will fix this in the future, but for now, using uniform packs with our mod may cause issues with uniforms appearing correctly.
-
----------
 ## Rosters
 Your PC mod download will automatically install a roster named **VIKES_CFBR**. This roster is optimized for the College Football Revamped Mod and designed to provide you with the best experience. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
 
