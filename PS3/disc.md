@@ -29,7 +29,44 @@ Everything here is only needed for first time setup, aside from the console itse
 
 6) Drag and drop both files onto the root of your USB drive (this means they should not be inside any folder).
 7) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR PS3 Easy Installer V4 Part A.pkg` and `CFBR PS3 Easy Installer V4 Part B.pkg`. Select Part A and wait for it to finish installing, then select Part B and wait for that to finish installing. Please note, Part A will take longer than Part B. If you get an error while installing, go back to the main menu and click on the "enable HEN" button and try again.
-8) Once both parts are finished installing, you can remove the USB drive. **MAKE SURE YOU HAVE ALREADY EJECTED YOUR GAME DISC**. Now launch multiMAN. Simply launch the game by pressing X. It will kick you back out to the main PS3 menu, but you wil see a disc icon even though there is no disc inserted. Simply click on that disc icon and it will launch NCAA 14 with our mods installed!
+8) Once both parts are finished installing, you can remove the USB drive. **MAKE SURE YOU HAVE ALREADY EJECTED YOUR GAME DISC**. 
+9) Now, launch multiMAN. Start NCAA 14 by pressing X. It will kick you back out to the main PS3 menu, but you wil see a disc icon even though there is no disc inserted. Simply click on that disc icon and it will launch NCAA 14 with our mods installed!
+
+---------
+## Verifiying the Mod Installed Correctly
+1) After you launch the game, go to Georgia Southern in Team Select. You should see the CFBR logo in the bottom left corner, as well as the Georgia Southern logo. If your game looks like the image below, please proceed to step two. 
+
+<img height="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/install-check/cfbr-logo.png">
+
+- If the team name says "Georgia Southern", BUT you still see the UMass logo OR you **do not** see the CFBR logo, your mod did not install correctly. **Please reinstall Part B.** If that does not work, please go to the Mod Install Troubleshooting instructions below.
+
+- If you see the CFBR logo, as well as the Georgia Southern logo, BUT Georgia Southern is named "UMass", your roster is out of date. [Please install the latest roster update here.](https://forums.operationsports.com/forums/ncaa-football-rosters/964552-ncaa-football-14-2020-2021-roster-update.html)
+
+<img height="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/install-check/incorrect-roster.png">
+
+2) Next, open the uniform preview for Georgia Southern. If the mod installed correctly, they should have two helmets (Navy and White) that look like the below images.
+- Please note that Georgia Southern, Pitt, App State, Charlotte, Coastal Carolina, and Tennessee all have pink shoes in uniform preview. We are working on fixing this. **Shoes will be the correct color in game.**
+
+<img height="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/install-check/correct-install.png">
+<img height="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/install-check/correct-install2.png">
+
+If you see the CFBR logo in the bottom left corner and Georgia Southern looks like the images above, congratulations your mod successfully installed!
+
+If your mod did not install correctly, please follow the troubleshooting instructions below. 
+
+---------
+## Mod Install Troubleshooting
+If you are experiencing an issue other than the ones listed below, please contact us on <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr).
+
+### Georgia Southern has incorrect uniforms and helmets
+If Georgia Southern has 4 helmets (2 UMass helmets, one Navy helmet, and a Charlotte helmet) and UMass jerseys, **please reinstall Part A.** If this does not fix your problem, please contact us on <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr).
+
+<img height="300" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/install-check/incorrect-part-a.png">
+
+### Georgia Southern has two white helmets
+If Georgia Southern has their home navy jersey, but a white UMass helmet for their navy helmet, **please reinstall Part B.** If this does not fix your problem, please contact us on <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr).
+
+<img height="300" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/install-check/no-patch.png">
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
