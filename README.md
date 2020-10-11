@@ -22,6 +22,7 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 ---------
 
 ## Known Mod Issues:
+- **Alabama Field:** The Alabama field is completely broken and therefore you cannot play a game at Alabama. We will push a hotfix in the next day or two.
 - **Pink cleats for Charlotte, Coastal Carolina, App State, Georgia Southern, and Pitt in uniform select:** This will only show during uniform select. All team colors will properly show in game. A fix will be released in v5.
 - **Dynasty Crashing:** The v4 release should eliminate all dynasty freezing caused by the mod in prior versions. If you experience freezing, please let us know.
 
