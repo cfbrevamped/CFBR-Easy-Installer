@@ -31,7 +31,7 @@ If you are unable to download the files from the links above, please use the fol
   - [**PART B (~1GB)**](https://bit.ly/3kBuKoB)
 
 6) Drag and drop both files onto the root of your USB drive (this means they should not be inside any folder).
-7) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR PS3 Easy Installer V3 Part A.pkg` and `CFBR PS3 Easy Installer V3 Part B.pkg`. Select Part A and wait for it to finish installing, then select Part B and wait for that to finish installing. Please note, Part A will take longer than Part B.
+7) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR PS3 Easy Installer V3 Part A.pkg` and `CFBR PS3 Easy Installer V3 Part B.pkg`. Select Part A and wait for it to finish installing, then select Part B and wait for that to finish installing. Please note, Part A will take longer than Part B. If you get an error while installing, go back to the main menu and click on the "enable HEN" button and try again.
 8) Once both parts are finished installing, you can remove the USB drive. **MAKE SURE YOU HAVE ALREADY EJECTED YOUR GAME DISC**. Now launch multiMAN. Simply launch the game by pressing X. It will kick you back out to the main PS3 menu, but you wil see a disc icon even though there is no disc inserted. Simply click on that disc icon and it will launch NCAA 14 with our mods installed!
 
 ---------
