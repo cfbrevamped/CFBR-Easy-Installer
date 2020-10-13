@@ -1,4 +1,4 @@
-# <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png"> College Football Revamped - XBOX 360 Release Patch Notes
+# <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
 ## v2 - SEC
 ### Texture Changes:
