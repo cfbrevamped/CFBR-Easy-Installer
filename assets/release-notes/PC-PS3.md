@@ -1,6 +1,6 @@
-# <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png"> College Football Revamped - PC and PS3 Release Patch Notes 
+# <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png"> College Football Revamped - <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.png"> PC and <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> PS3 Release Patch Notes 
 
-## V3 - ACC + FBS Independents:
+## v3 - ACC + FBS Independents:
 - Updated jerseys for all ACC + Independent teams
 - Updated helmets for all ACC + Independent teams
 - Updated pants for all ACC + Independent teams
