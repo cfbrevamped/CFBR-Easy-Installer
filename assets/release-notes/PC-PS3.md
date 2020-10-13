@@ -1,5 +1,13 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## v4.1 - HOTFIX:
+- Fixes crashing when loading into games at Alabama
+- Fixes crashing when loading into RTG games
+- Fixes crashing from studio updates in dynasty games
+- Reduces some crashing during HT show and end of quarter (more fixes to come in V5 that will completely solve crashing)
+
+---------
+
 ## v4 - App State, Charlotte, Coastal Carolina, and Georgia Southern:
 - Replaced Idaho with App State (uniforms, fields, bowl endzones, cheerleaders, fan color, etc.)
 - Replaced UConn with Charlotte (uniforms, fields, bowl endzones, cheerleaders, fan color, etc.)
