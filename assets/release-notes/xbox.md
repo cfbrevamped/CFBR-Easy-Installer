@@ -1,6 +1,7 @@
-# <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/Xbox-Logo.jpg"> XBOX 360 - v2 SEC Patch Notes
+# <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
-## Texture Changes:
+## v2 - SEC
+### Texture Changes:
 - Updated jerseys and pants for all SEC teams
 - Updated and upscaled (2x resolution) helmets for all SEC teams
 - Updated and upscaled (4x resolution) gloves for all SEC teams
@@ -19,7 +20,7 @@
 - Updated uniform combination presets and names
 - Updated uniform combinations so that users can play color/color and light/light games (jersey parts must be swapped individually)
 
-## Database Changes:
+### Database Changes:
 - Updated team names - [Download the latest Vikesfan roster here.](https://forums.operationsports.com/forums/ncaa-football-rosters/964552-ncaa-football-14-2020-2021-roster-update.html)
 - Updated bowl names
 - Updated bowl tie-ins
@@ -31,7 +32,7 @@
 - Updated preseason All-Americans
 - Updated preseason All-Conference teams for ACC, B1G, Big 12, Pac-12, and SEC
 
-## Stadium Updates:
+### Stadium Updates:
 - Alabama: New scoreboard ads (Coke, Regions Bank, etc.)
 - Arkansas: Removed EA sports sign outside stadium, added a new Nike logo to the stadium. Replaced ads around the stadium. New awning
 - Mississippi State: New scoreboard ads (Replaced EA Sports with Miss State logo)
@@ -47,3 +48,6 @@
 - SEC Championship: New tunnel with new SEC championship logo. New stadium ads. Some resizing issues because of EA ad placement (will attempt to fix in a later version)
 - Florida/Georgia: Updated FL/GA game logo throughout the stadium. Updated stadium ads.
 - Tennessee: Scoreboard ads done by TheBleedingRed21. Added new stadium ads with an LED filter to make it look like an electronic board. Added UT National Championship banner.
+
+---------
+For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
