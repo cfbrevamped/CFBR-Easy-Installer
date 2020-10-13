@@ -16,11 +16,6 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 - <img width="20" src="https://img.favpng.com/0/5/6/youtube-logo-png-favpng-9aSw7LevnfxZKMvi1vS7BATkQ.jpg"> [YouTube](https://www.youtube.com/channel/UCCY9bWCdGvitI2YyO5o4sQg?)
 ---------
 
-## You <ins>DO NOT</ins> need any prior versions of the Easy Installer or any other mods installed before using V4 of the Easy Installer.
-## This mod <ins>INCLUDES ALL PRIOR VERSIONS</ins> and will overwrite any previously installed mods. YOU DO NOT NEED TO DELETE V3 OR ANY PRIOR VERSIONS.
-
----------
-
 ## Known Mod Issues:
 - **Pink cleats for Charlotte, Coastal Carolina, App State, Georgia Southern, and Pitt in uniform select:** This is glitch with the original game that we cannot fix. The issue will only show during uniform select. All team colors will properly show in game. 
 - **Dynasty Crashing:** The v4 release should eliminate all dynasty freezing caused by the mod in prior versions. If you experience freezing, please let us know.
@@ -32,7 +27,17 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 
 # College Football Revamped - Installation Guide
 
-- [Complete patch notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/V3.md)
+## - Each release includes ALL prior versions. Simply install the latest version to enjoy all of our latest mods!
+## - YOU <ins>DO NOT</ins> NEED TO DELETE OR REMOVE ANY PRIOR VERSIONS.
+
+---------
+
+## Current Releases:
+| **System** | **Release** | **Release Date** | **Patch Notes** |
+|:----|:----|:----|:----|
+| <img width="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> PC | v4.1 Hotfix | 10/12/2020 | [v4.1 Hotfix Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
+| <img width="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> PS3 | v4.1 Hotfix | 10/12/2020 | [v4.1 Hotfix Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
+| <img width="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/Xbox-Logo.jpg"> XBOX 360 | v2 | 8/7/2020 | [v2 XBOX 360 patch notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/xbox.md)
 
 ## Select Your Device - (PC, PS3, or XBOX 360)
 | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"></a>  | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox.jpg">
