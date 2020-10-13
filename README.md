@@ -35,8 +35,8 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 ## Current Releases:
 | **System** | **Release** | **Release Date** | **Patch Notes** |
 |:----|:----|:----|:----|
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v4.1 Hotfix | 10/12/2020 | [v4.1 Hotfix Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v4.1 Hotfix | 10/12/2020 | [v4.1 Hotfix Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v4.1 Hotfix | 10/12/2020 | [v4.1 Hotfix patch notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v4.1 Hotfix | 10/12/2020 | [v4.1 Hotfix patch notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
 | <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> | v2 | 8/7/2020 | [v2 XBOX 360 patch notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/xbox.md)
 
 ## Select Your Device - (PC, PS3, or XBOX 360)
