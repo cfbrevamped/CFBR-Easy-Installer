@@ -14,13 +14,13 @@
 - Replaced NM State with Coastal Carolina (uniforms, fields, bowl endzones, cheerleaders, fan color, etc.)
 - Replaced UMass with Georgia Southern (uniforms, fields, bowl endzones, cheerleaders, fan color, etc.)
 - Updated skin textures
-- Updated pad textures (seen here)
+- Updated pad textures ([see here](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/pads.png))
 - Updated and upscaled all Sun Belt Fields
 - Updated default/generic glove models
-- Updated spacing for the 1 digit on most revamped jerseys (see old vs new)
+- Updated spacing for the 1 digit on most revamped jerseys ([see here](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/1_spacing.png))
 - Updated stadium select images for all revamped fields
 - Updated seat color for Hard Rock Stadium (orange to teal)
-- Updated edgewall color, accessory color, and fan color for Pitt to their current gold and blue (see old vs new)
+- Updated edgewall color, accessory color, and fan color for Pitt to their current gold and blue ([see here](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/pittfield.png))
 - Updated Arkansas road uniform and moved jerseys to updated Vapor Untouchable template
 - Updated Arkansas helmets and pants 
 - Updated Boston College throwback uniform set and removed helmet stripe
