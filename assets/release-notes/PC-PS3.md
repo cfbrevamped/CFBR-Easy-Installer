@@ -1,5 +1,39 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## v4 - App State, Charlotte, Coastal Carolina, and Georgia Southern:
+- Replaced Idaho with App State (uniforms, fields, bowl endzones, cheerleaders, fan color, etc.)
+- Replaced UConn with Charlotte (uniforms, fields, bowl endzones, cheerleaders, fan color, etc.)
+- Replaced NM State with Coastal Carolina (uniforms, fields, bowl endzones, cheerleaders, fan color, etc.)
+- Replaced UMass with Georgia Southern (uniforms, fields, bowl endzones, cheerleaders, fan color, etc.)
+- Updated skin textures
+- Updated pad textures (seen here)
+- Updated and upscaled all Sun Belt Fields
+- Updated default/generic glove models
+- Updated spacing for the 1 digit on most revamped jerseys (see old vs new)
+- Updated stadium select images for all revamped fields
+- Updated seat color for Hard Rock Stadium (orange to teal)
+- Updated edgewall color, accessory color, and fan color for Pitt to their current gold and blue (see old vs new)
+- Updated Arkansas road uniform and moved jerseys to updated Vapor Untouchable template
+- Updated Arkansas helmets and pants 
+- Updated Boston College throwback uniform set and removed helmet stripe
+- Added Boston College Red Bandana uniform set
+- Updated Florida sleeve stripes and moved jerseys to more detailed Vapor Untouchable template
+- Updated Florida State gold helmet's facemask color
+- Added Georgia throwback uniform set and new black alternate uniform
+- Added Miami 2019 Parley uniform set
+- Updated NC State helmets with larger logo that the team is using in 2020 and removed helmet stripe from white helmet
+- Added plain white (no stripe) pants to Ole Miss
+- Added Pitt Steel City uniform set, including a new set of gloves
+- Added Pitt blue pants
+- Added South Carolina new uniform sets (black throwback, white, and garnet)
+- Updated South Carolina helmet stripes and accessory color
+- Replaced South Carolina red script helmet with 2019/2020 throwback
+- Updated Syracuse Orange helmet's facemask color
+- Updated Texas A&M's new pants to have team logo on each side
+- Updated Virginia's jerseys to have new number font
+
+---------
+
 ## v3 - ACC + FBS Independents:
 - Updated jerseys for all ACC + Independent teams
 - Updated helmets for all ACC + Independent teams
