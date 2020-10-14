@@ -55,6 +55,7 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 - **v8:** Big 10 - Part 2
 - **v9:** Pac-12 - Part 1
 - **v10:** Pac-12 - Part 2
+- **v11:** All remaining teams and conferences
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
