@@ -36,7 +36,7 @@ Everything here is only needed for first time setup, aside from the console itse
 If you prefer a video tutorial, [please watch this video.](https://youtu.be/LPxkr5F-8Mk)
 
 1) Download [Velocity-XEXISO here](https://github.com/Gualdimar/Velocity/releases/download/master28.10.2016/Velocity-master28.10.2016.rar) on your computer. Extract the program (with 7zip or Winrar) and run it. Take your ISO or GOD file and drag it into the window. Then select all the files, right click, and extract all to a new folder (this will be your game folder).
-2) Make sure your game folder is on your USB drive. Download all four files ([File 1](https://drive.google.com/file/d/1hA2C8dVIxexBUCjE0jdOCQ5jj9n8xwBs/view?usp=sharing), [File 2](https://drive.google.com/file/d/19JoUKxakfGvQqhAh08luLV_YuBBRfnfy/view?usp=sharing), [File 3](https://drive.google.com/file/d/1m6WNRX8a8fmO2yAnKsKkwv0XtqQAh8qm/view?usp=sharing), and [File 4](https://drive.google.com/file/d/1F13DUoTW9Op-6sy_BoMdHFo-Y4yHleUz/view?usp=sharing)). Drag each one into your game folder to replace the original game files. \[Note 1]
+2) Make sure your game folder is on your USB drive. Download all four files ([File 1](https://bit.ly/3dQ2zAm), [File 2](https://bit.ly/2FYDvL0), [File 3](https://bit.ly/3oiFtXQ), and [File 4](https://bit.ly/3kqEwug)). Drag each one into your game folder to replace the original game files. \[Note 1]
 3) Now simply place your USB back in your XBOX 360. Either launch the game from your USB or copy the game files to your internal hard drive to launch from there and enjoy the mods!
 
 \[Note 1]: If you are getting an error saying too many people have downloaded this file, [please follow this workaround](https://www.youtube.com/watch?v=R5q3XpdWfaQ).
