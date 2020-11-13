@@ -18,7 +18,7 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 
 ## Known Mod Issues:
 - **Pink cleats for Charlotte, Coastal Carolina, App State, Georgia Southern, and Pitt in uniform select:** This is glitch with the original game that we cannot fix. The issue will only show during uniform select. All team colors will properly show in game. 
-- **Dynasty Crashing:** The v4 release should eliminate all dynasty freezing caused by the mod in prior versions. If you experience freezing, please let us know.
+- **Dynasty Crashing:** The v4 release should eliminate most dynasty freezing caused by the mod in prior versions. If you experience freezing on PC or PS3, please let us know.
 - **Darker Leg Skin Color:** Some skintones have a darker leg color. This will be fixed in v5.
 
 Of course, if you have any additonal questions, please join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
