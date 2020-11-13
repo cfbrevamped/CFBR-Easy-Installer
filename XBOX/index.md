@@ -66,7 +66,7 @@ In the next window, hit "extract all" and select an empty folder inside of your 
 - Games on GOD format looks like [this](https://youtu.be/LPxkr5F-8Mk?t=86)
 - Download [GOD2ISO](http://www.mediafire.com/file/o7sf7f8687p7tux/GOD_2_ISO.rar/file)
 - Run GOD2ISO, Press "Add..." and select GOD game identification file (the small file of 44kb). Press "Browse..." and select output path for ISO file. Click "GO!" and ISO will be generated in output directory.
-- Now that you have the game on ISO format, follow the instructions starting at [option 2]("#2\)-if-you-have-an-iso-file-of-ncaa-14").
+- Now that you have the game on ISO format, follow the instructions starting at [option 2]("#2-if-you-have-an-iso-file-of-ncaa-14").
 
 If you are struggling at any point, you can also try to refer to [this video](https://youtu.be/LPxkr5F-8Mk) and try our support channel in our discord server linked below.
 
