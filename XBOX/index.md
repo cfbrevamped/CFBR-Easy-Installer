@@ -66,13 +66,13 @@ In the next window, hit "extract all" and select an empty folder inside of your 
 - Games on GOD format looks like [this](https://youtu.be/LPxkr5F-8Mk?t=86)
 - Download [GOD2ISO](http://www.mediafire.com/file/o7sf7f8687p7tux/GOD_2_ISO.rar/file)
 - Run GOD2ISO, Press "Add..." and select GOD game identification file (the small file of 44kb). Press "Browse..." and select output path for ISO file. Click "GO!" and ISO will be generated in output directory.
-- Now that you have the game on ISO format, follow the instructions starting at [option 2]("#2-if-you-have-an-iso-file-of-ncaa-14").
+- Now that you have the game on ISO format, follow the instructions starting at [option 2](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/index.md#2-if-you-have-an-iso-file-of-ncaa-14).
 
 If you are struggling at any point, you can also try to refer to [this video](https://youtu.be/LPxkr5F-8Mk) and try our support channel in our discord server linked below.
 
 ---------
 ## DOWNLOAD LINKS (you need all five)
-We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links.
+We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 - [File 1](https://bit.ly/3lw6AwH)
 - [File 2](https://bit.ly/2IwegR4)
 - [File 3](https://bit.ly/3kwul6q)
