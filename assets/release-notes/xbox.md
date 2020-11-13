@@ -1,5 +1,68 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## v4.2 - SEC Fix, ACC, Independents, Four New Schools, and Fixes Fixes Beyond PC/PS3 4.1 Hotfix:
+- Helmets, Jerseys, Pants, Gloves redone for all SEC teams
+- Updated socks/tights colors for all SEC teams
+- Updated sock model (high socks converted to tights)
+- Fields and Bowl endzones redone for all SEC teams, including Florida-Georgia neutral site and SEC championship game
+- Update goalpost pads for all teams and bowls
+- Teams, conferences and bowl logos redone plus new Arkansas State, North Texas, UTSA and added Charlotte 49ers logo
+- Updated Helmets, Jerseys, Pants, Gloves and Color/Tights colors for All ACC and Independets (Army, BYU, Notre Dame)
+- Updated Fields and Bowl endzones for all ACC and Independents, including Navy-Army neutral site game and ACC championship game
+- Bowl Fields updated:
+    - Alamo Bowl
+    - Birmingham Bowl
+    - Cactus Bowl
+    - CFP National Championship Game (Play Now and Dynasty)
+    - Cheez-it Bowl
+    - Citrus Bowl
+    - Cotton Bowl
+    - Duke's Mayo
+    - Fiesta Bowl
+    - First Responder Bowl
+    - Gasparilla Bowl
+    - Hawaii Bowll
+    - Holliday Bowl
+    - Lending Tree Bowl
+    - Liberty Bowl
+    - Military Bowl
+    - Music City Bowl
+    - New Orleans Bowl
+    - Orange Bowl
+    - Outback Bowl
+    - Peach Bowl
+    - Pinstripe Bowl
+    - Quick Lane Bowl
+    - RedBox Bowl
+    - Rose Bowl
+    - Sugar Bowl
+    - Sun Bowl
+    - TaxSlayer Bowl
+    - Texas Bowl
+- Kickoff and P5 Fields updated:
+    - Advocare Classic
+    - Advocare Kickoff
+    - Big 10 Championship Game
+    - Big 12 Championship Game
+    - Camping World Kickoff
+    - Chick Fill A Kickoff
+    - Duke's Mayo Kickoff
+    - Pac-12 Championship game
+- Updated Rivalry, Game of the Week, and VS logos
+- Added CFBR logo
+- Updated net (Allstate instead of EA)
+- Replaced Idaho with App State (uniforms, fields, bowl endzones, cheerleaders, fan color, banner, poster, stadium decorations, goalpost pads)
+- Replaced UConn with Charlotte (uniforms, fields, bowl endzones, cheerleaders, fan color, banner, poster, stadium decorations, goalpost pads)
+- Replaced NM State with Coastal Carolina (uniforms, fields, bowl endzones, cheerleaders, fan color, banner, poster, stadium decorations, goalpost pads)
+- Replaced UMass with Georgia Southern (uniforms, fields, bowl endzones, cheerleaders, fan color, banner, poster, stadium decorations, goalpost pads)
+- Updated skin, pads and jerseys textures
+- Updated default/generic glove models
+- Updated stadium select images for all revamped fields
+- Updated seat color for Hard Rock Stadium (orange to teal)
+- Updated play now selection mode pics for some teams
+
+---------
+
 ## v2 - SEC
 ### Texture Changes:
 - Updated jerseys and pants for all SEC teams
