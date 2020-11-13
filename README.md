@@ -46,7 +46,7 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 
 ---------
 ## Future Releases (Dates TBD):
-- **v3 and v4 XBOX Conversion** 
+- **~~v3 and v4 XBOX Conversion**~~ RELEASED 11/13/20
 - **v5:** Big 12 - Part 1
   - <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Kansas_Jayhawks_logo.svg/1153px-Kansas_Jayhawks_logo.svg.png"> Kansas, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Kansas_State_Wildcats_logo.svg/1200px-Kansas_State_Wildcats_logo.svg.png"> Kansas State, <img height="20" src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png"> Oklahoma State, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TCU_Horned_Frogs_logo.svg/1200px-TCU_Horned_Frogs_logo.svg.png"> TCU, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/West_Virginia_Mountaineers_logo.svg/1200px-West_Virginia_Mountaineers_logo.svg.png"> West Virginia
 - **v6:** Big 12 - Part 2
