@@ -73,11 +73,11 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ---------
 ## DOWNLOAD LINKS (you need all five)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
-- [File 1](https://bit.ly/3lw6AwH)
-- [File 2](https://bit.ly/2IwegR4)
-- [File 3](https://bit.ly/3kwul6q)
+- [File 1](https://bit.ly/3olJn1t)
+- [File 2](https://bit.ly/33BLXIL)
+- [File 3](https://bit.ly/3lyE2lp)
 - [File 4](https://bit.ly/3eXbv7u)
-- [File 5](https://bit.ly/3kuUwdU)
+- [File 5](https://bit.ly/2VvoEMc)
 
 ---------
 ## Notes
