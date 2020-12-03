@@ -18,9 +18,8 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 
 ## Known Mod Issues:
 - **Pink cleats for Charlotte, Coastal Carolina, App State, Georgia Southern, and Pitt in uniform select:** This is glitch with the original game that we cannot fix. The issue will only show during uniform select. All team colors will properly show in game. 
-- **Dynasty Crashing:** The v4 release should eliminate most dynasty freezing caused by the mod in prior versions. If you experience freezing on PC or PS3, please let us know.
-- **Darker Leg Skin Color:** Some skintones have a darker leg color. This will be fixed in v5 (already fixed on Xbox V4.2).
-- **Incorrect Charlotte Uniform Names and Missing Helmets:** Charlotte uniform combos (including helmets) are messed up, will be fixed in V5 (already fixed on Xbox V4.2).
+- **Dynasty Crashing:** Dynasty crashing has been significantly reduced in recent updates, but we hope to completely eliminate it with V6 or V7. If you experience freezing on PC or PS3, please let us know. Also keep in mind that using custom stadium sounds is known to cause crashing with the base game, so if you experience issues and use custom sounds, try uninstalling those first 
+- **UVA white helmet is glossy:** This helmet is glossy and should be matte. This will be fixed in the next update.
 
 Of course, if you have any additonal questions, please join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
 
