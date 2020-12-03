@@ -76,8 +76,8 @@ We apologize for having to use this site to host our files. We know it has slowe
 - [File 1](https://bit.ly/3olJn1t)
 - [File 2](https://bit.ly/33BLXIL)
 - [File 3](https://bit.ly/3lyE2lp)
-- [File 4](https://bit.ly/3eXbv7u)
-- [File 5](https://bit.ly/2VvoEMc)
+- [File 4](https://bit.ly/2VvoEMc)
+- [File 5](https://bit.ly/3kuUwdU)
 
 ---------
 ## Notes
