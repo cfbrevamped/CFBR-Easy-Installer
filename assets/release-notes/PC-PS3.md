@@ -1,6 +1,6 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
-## V5 - Big 12 Part 1 (Kansas, Kansas State, Oklahoma State, TCU, West Virginia:
+## V5 - Big 12 Part 1 (Kansas, Kansas State, Oklahoma State, TCU, West Virginia):
 - Fixed Boston College throwback jersey number design and alignment
 - Fixed Charlotte and Wake Forest helmet ghosting issues
 - Fixed Charlotte uniform combinations (old UConn no longer shows up, and colors are properly named)
