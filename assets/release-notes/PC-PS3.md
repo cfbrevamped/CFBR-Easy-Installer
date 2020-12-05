@@ -1,5 +1,33 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V5 - Big 12 Part 1 (Kansas, Kansas State, Oklahoma State, TCU, West Virginia:
+- Fixed Boston College throwback jersey number design and alignment
+- Fixed Charlotte and Wake Forest helmet ghosting issues
+- Fixed Charlotte uniform combinations (old UConn no longer shows up, and colors are properly named)
+- Added two Charlotte helmets (were supposed to be in original release but were omitted due to an error)
+- Fixed ACC patch color on Clemson purple jersey
+- Added blue UF throwback helmet, refined stripes on throwback uniform, and updated stripe to white script helmet
+- Added GT Blackwatch uniform
+- Updated uniforms, fields, bowl endzone, stadium assets, and mascot for Kansas
+- Updated uniforms, fields, bowl endzone, and stadium assets for Kansas State
+- Updated uniforms, fields, bowl endzone, and stadium assets for Oklahoma State
+- Updated uniforms, fields, bowl endzone, and stadium assets for TCU
+- Updated uniforms, fields, bowl endzone, and stadium assets for West Virginia
+- Updated field preview pictures for Big 12 teams
+- Updated rivalry names
+- Reverted high socks in jersey preview screen (this had a side effect of causing all recruits in dynasty to also have high socks)
+- Fixed nameplate color on Pitt blue jersey (changed from gold to white)
+- Fixed South Carolina jersey number alignment
+- Added nameplate to Virginia Tech white jersey
+- Fixed facemask color on Virginia Tech white and maroon helmets
+- Switched Wake Forest black helmet to matte finish
+- Updated various database files
+- Updated Alabama goalpost pad
+- Updated Red River Rivalry fields
+- Updated logos and bowl names for Guaranteed Rate and Gasparilla Bowl
+
+---------
+
 ## v4.1 - HOTFIX:
 - Fixes crashing when loading into games at Alabama
 - Fixes crashing when loading into RTG games
