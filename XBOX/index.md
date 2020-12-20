@@ -73,16 +73,16 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ---------
 ## DOWNLOAD LINKS (you need all five)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
-- [File 1](https://bit.ly/3olJn1t)
-- [File 2](https://bit.ly/33BLXIL)
-- [File 3](https://bit.ly/3lyE2lp)
-- [File 4](https://bit.ly/2VvoEMc)
-- [File 5](https://bit.ly/33Av0yo)
+- [File 1](https://bit.ly/38ke14H)
+- [File 2](https://bit.ly/3p8zd4r)
+- [File 3](https://bit.ly/2WtE04n)
+- [File 4](https://bit.ly/3nECkky)
+- [File 5](https://https://download850.mediafire.com/8udi7e9aguzg/mm53c0656wafx72/qkl_fe2ig.ast)
 
 ---------
 ## Notes
-- While this is technically V5, this also contains all the content from older versions.
-- V6 is slated to release alongside the PS3 and PC versions, but keep in mind our team converting the files is very small. Something as small as someone being busy with work or school (remember this is 100% a volunteer project) could delay the conversion, though we don't anticipate that happening.
+- While this is technically V6, this also contains all the content from older versions.
+- V7 is slated to release alongside the PS3 and PC versions, but keep in mind our team converting the files is very small. Something as small as someone being busy with work or school (remember this is 100% a volunteer project) could delay the conversion, though we don't anticipate that happening.
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
