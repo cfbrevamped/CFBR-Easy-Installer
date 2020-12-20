@@ -6,4 +6,4 @@
 
 **DO NOT** download this version of the mod if you obtained NCAA Football 14 from anywhere other than the Playstation Network Store. If you are unsure, you should probably go back and download the DISC version of this mod.
 
-If you purchased the game from the PSN Store, please click the CFBR logo at the top to continue to with your download.
+If you purchased the game from the PSN Store, please click the CFBR logo at the top to continue with your download.
