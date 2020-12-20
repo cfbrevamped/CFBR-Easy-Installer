@@ -35,9 +35,9 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 ## Current Releases:
 | **System** | **Release** | **Release Date** | **Patch Notes** |
 |:----|:----|:----|:----|
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v5 | 12/2/2020 | [v5 patch notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v5 | 12/2/2020 | [v5 patch notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> | v5 | 12/2/2020 | [v5 XBOX 360 patch notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/xbox.md)
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v6 | 12/19/2020 | Coming Soon
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v6 | 12/19/2020 | Coming Soon
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> | v6 | 12/19/2020 | Coming Soon
 
 ## Select Your Device - (PC, PS3, or XBOX 360)
 | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"></a>  | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox.jpg">
@@ -48,7 +48,7 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 ## Future Releases (Dates TBD):
 - **v5 (Released 12/2/2020):** Big 12 - Part 1
   - <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Kansas_Jayhawks_logo.svg/1153px-Kansas_Jayhawks_logo.svg.png"> Kansas, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Kansas_State_Wildcats_logo.svg/1200px-Kansas_State_Wildcats_logo.svg.png"> Kansas State, <img height="20" src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png"> Oklahoma State, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TCU_Horned_Frogs_logo.svg/1200px-TCU_Horned_Frogs_logo.svg.png"> TCU, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/West_Virginia_Mountaineers_logo.svg/1200px-West_Virginia_Mountaineers_logo.svg.png"> West Virginia
-- **v6:** Big 12 - Part 2
+- **v6 (Released 12/19/2020):** Big 12 - Part 2
   - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Baylor_Athletics_logo.svg/1200px-Baylor_Athletics_logo.svg.png"> Baylor, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Iowa_State_Cyclones_logo.svg/1200px-Iowa_State_Cyclones_logo.svg.png"> Iowa State, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oklahoma_Sooners_logo.svg/795px-Oklahoma_Sooners_logo.svg.png"> Oklahoma, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Texas_Longhorns_logo.svg/1200px-Texas_Longhorns_logo.svg.png"> Texas, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Texas_Tech_Athletics_logo.svg/1200px-Texas_Tech_Athletics_logo.svg.png"> Texas Tech
 - **v7:** Big 10 - Part 1
 - **v8:** Big 10 - Part 2
