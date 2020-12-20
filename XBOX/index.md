@@ -77,7 +77,7 @@ We apologize for having to use this site to host our files. We know it has slowe
 - [File 2](https://bit.ly/3p8zd4r)
 - [File 3](https://bit.ly/2WtE04n)
 - [File 4](https://bit.ly/3nECkky)
-- [File 5](https://https://download850.mediafire.com/8udi7e9aguzg/mm53c0656wafx72/qkl_fe2ig.ast)
+- [File 5](https://www.mediafire.com/file/mm53c0656wafx72/qkl_fe2ig.ast/file)
 
 ---------
 ## Notes
