@@ -74,11 +74,11 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ## DOWNLOAD LINKS (you need all five)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-- [File 1](https://www.mediafire.com/file/mm53c0656wafx72/qkl_fe2ig.ast/file)
-- [File 2](https://bit.ly/2WtE04n)
-- [File 3](https://bit.ly/3p8zd4r)
-- [File 4](https://bit.ly/38ke14H)
-- [File 5](https://bit.ly/3nECkky)
+- [File 1](https://bit.ly/384Sxdq)
+- [File 2](https://bit.ly/34X6Z56)
+- [File 3](https://bit.ly/2MtgHGd)
+- [File 4](https://bit.ly/38QS4L5)
+- [File 5](https://bit.ly/3n4RCxU)
 
 - **OPTIONAL STEP -- CORONA MODE**
 
@@ -87,9 +87,6 @@ We apologize for having to use this site to host our files. We know it has slowe
   - **IF** you would like to install [Corona Mode](https://twitter.com/CFBRevamped/status/1339635494733324288?s=20), download and install the two files below instead of Files 1 and 2 from above:
     - [File 1](https://bit.ly/3pbHR24)
     - [File 2](https://bit.ly/3rntBFC)
-  - To revert back to fans in the stands, install the files below:
-    - [File 1](https://www.mediafire.com/file/mm53c0656wafx72/qkl_fe2ig.ast/file)
-    - [File 2](https://bit.ly/2WtE04n)
 
 ---------
 ## Notes
