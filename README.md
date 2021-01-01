@@ -1,7 +1,7 @@
 # College Football Revamped
 
 <p align="center">
-  <img width="400" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png">
+  <img height="400" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png">
 </p>
 
 Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pants, fields, gloves, logos, and more! [You can even have both teams wear colored jerseys](https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/Clemson-UNC.png)!
