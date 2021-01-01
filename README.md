@@ -47,7 +47,7 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 ---------
 ## Future Releases (Dates TBD):
 - **v7:** January 1st Surprise -- Noon ET
-- **v8:** Big 10 - Part 1
+- **v8:** Big 10 - Part 1 (Late January/Early February)
 - **v9:** Big 10 - Part 2
 - **v10:** Pac-12 - Part 1
 - **v11:** Pac-12 - Part 2
