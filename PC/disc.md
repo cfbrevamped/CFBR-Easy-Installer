@@ -14,16 +14,7 @@
 
 ![this](https://i.imgur.com/cJrOFcx.png)
 
-4) Next, [download the Easy Installer PKG file from this link.](https://bit.ly/2LU8AlF)
-
-- **OPTIONAL STEP -- CORONA MODE**
-
-  <img width="400" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/corona-mode.png">
-  
-  - **IF** you would like to install [Corona Mode](https://twitter.com/CFBRevamped/status/1339635494733324288?s=20), download and install the [V6 Corona Mode Easy Installer](https://bit.ly/2Jc3Pmk).
-  - This works exactly the same as other Easy Installers, and you **DO NOT NEED** V6 already installed for this to work.
-  - To revert back to fans in the stands, simply install the standard [V6 Easy Installer](https://bit.ly/2LU8AlF) in Step 4.
-  
+4) Next, [download the Easy Installer PKG file from this link.](https://bit.ly/2Lc7FMO)
 5) Finally, simply launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/JGcJmNB.png). After that, launch the game and enjoy the mods!
 
 ---------
