@@ -82,8 +82,8 @@ We apologize for having to use this site to host our files. We know it has slowe
 
 ---------
 ## Notes
-- While this is technically V6, this also contains all the content from older versions.
-- V7 is slated to release alongside the PS3 and PC versions, but keep in mind our team converting the files is very small. Something as small as someone being busy with work or school (remember this is 100% a volunteer project) could delay the conversion, though we don't anticipate that happening.
+- While this is technically V7, this also contains all the content from older versions.
+- V8 is slated to release alongside the PS3 and PC versions, but keep in mind our team converting the files is very small. Something as small as someone being busy with work or school (remember this is 100% a volunteer project) could delay the conversion, though we don't anticipate that happening.
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
