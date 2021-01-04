@@ -80,14 +80,6 @@ We apologize for having to use this site to host our files. We know it has slowe
 - [File 4](https://bit.ly/38QS4L5)
 - [File 5](https://bit.ly/3n4RCxU)
 
-- **OPTIONAL STEP -- CORONA MODE**
-
-  <img width="400" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/corona-mode.png">
-  
-  - **IF** you would like to install [Corona Mode](https://twitter.com/CFBRevamped/status/1339635494733324288?s=20), download and install the two files below instead of Files 1 and 2 from above:
-    - [File 1](https://bit.ly/3pbHR24)
-    - [File 2](https://bit.ly/3rntBFC)
-
 ---------
 ## Notes
 - While this is technically V6, this also contains all the content from older versions.
