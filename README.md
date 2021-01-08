@@ -16,8 +16,7 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 
 ## Known Mod Issues:
 - **Pink cleats for Charlotte, Coastal Carolina, App State, Georgia Southern, and Pitt in uniform select:** This is glitch with the original game that we cannot fix. The issue will only show during uniform select. All team colors will properly show in game. 
-- **Dynasty Crashing:** Dynasty crashing has been significantly reduced in recent updates, but we hope to completely eliminate it with V6 or V7. If you experience freezing on PC or PS3, please let us know. Also keep in mind that using custom stadium sounds is known to cause crashing with the base game, so if you experience issues and use custom sounds, try uninstalling those first 
-- **UVA white helmet is glossy:** This helmet is glossy and should be matte. This will be fixed in the next update.
+- **Dynasty Crashing:** We believe our latest release, V7.1, has fixed all mod-related crashing issues. If you experience freezing on PC or PS3, please let us know. Also keep in mind that using custom stadium sounds is known to cause crashing with the base game, so if you experience issues and use custom sounds, try uninstalling those first 
 
 Of course, if you have any additonal questions, please join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
 
@@ -33,8 +32,8 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 ## Current Releases:
 | **System** | **Release** | **Release Date** | **Patch Notes** |
 |:----|:----|:----|:----|
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v7 | 1/1/2021 | Coming Soon
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v7 | 1/1/2021 | Coming Soon
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v7.1 | 1/8/2021 | Coming Soon
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v7.1 | 1/8/2021 | Coming Soon
 | <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> | v7 | 1/1/2021 | Coming Soon
 
 ## Select Your Device - (PC, PS3, or XBOX 360)
