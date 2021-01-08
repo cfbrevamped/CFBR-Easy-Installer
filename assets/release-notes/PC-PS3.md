@@ -1,5 +1,33 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V7.1 - Performance and Stability Update:
+**Team-specific Fixes:**
+- Texas State revamped uniforms, helmets, pants, etc. added
+- Texas uniforms, pants, gloves, etc. color corrected
+- VT white jersey fixed (added Nike logo)
+- KSU Purple tights/white socks fixed (flipped colors)
+- FCS MW crash on PS3 fixed
+- Play now pics for Colorado, Kansas, Florida, Texas, MTSU fixed
+- Team logos (Marshall, Miss St, ND, Illinois) fixed/updated
+
+**General Fixes:**
+- G5 mixmatches + Wisconsin fixed (no more "wrong helmet/glove" issues for non-revamped teams)
+- De-mipped ingame UI textures to improve stability
+- Saban factor skill tree added
+- Fonts fixed (team Management/Heisman total votes display properly)
+- Big 12 Champ field updated
+- Bowl logos downscaled slightly for stability (new CFP logo)
+- Conference logos downscaled slightly for stability
+- Downscaled pants slightly for stability
+- Downscaled bowl patches slightly for stability (changed CFP to just logo)
+- Updated bowl logos/names for Texas and Military Bowls
+- Updated CUSA championship logo
+- Ticker fixed
+- Comparison popup fixed
+- Fixed load indicator
+
+---------
+
 ## V5 - Big 12 Part 1 (Kansas, Kansas State, Oklahoma State, TCU, West Virginia):
 - Fixed Boston College throwback jersey number design and alignment
 - Fixed Charlotte and Wake Forest helmet ghosting issues
