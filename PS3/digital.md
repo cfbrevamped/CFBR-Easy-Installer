@@ -21,8 +21,8 @@ Everything here is only needed for first time setup, aside from the console itse
 1) Follow [this great YouTube guide to install HEN and Multiman](https://www.youtube.com/watch?v=fOKemRHAZ3c) on your PS3. It should only take 30 minutes to an hour. **YOU CAN SKIP THE OPTIONAL STEP from 13:17-14:29**.
 2) Make sure your game is downloaded to your console as it would be normally if you wanted to play it.
 3) Move over to your computer and download the following files:
-- [**PART A (~3GB)**](https://bit.ly/38PZDS5)
-- [**PART B (~3GB)**](https://bit.ly/2LdWTWl)
+- [**PART A (~3GB)**](https://bit.ly/3pZVlyu)
+- [**PART B (~3GB)**](https://bit.ly/2LeFwVY)
 
 
 4) Drag and drop both files onto the root of your USB drive (this means they should not be inside any folder)
