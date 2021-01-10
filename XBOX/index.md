@@ -10,7 +10,7 @@ If you send your console off to a send-in service or buy a pre-JTAG/RGH console,
 You will need an Xbox 360 with an RGH/JTAG modchip and a mod menu (Aurora or Freestyle Dash). We recommend that Xbox users send their console in or buy a pre-modded console (this limitation is set by Microsoft). You can get your console modded almost anywhere online (use Google, eBay, etc.) but we recommend Aqua Silvermist since we have consistently heard good things about his business (no affiliation whatsoever). You can send your console in [here](https://aquasilvermist.com/collections/send-in-with-credit-debit-card/products/send-in-your-xbox-360-to-be-customized) or buy a whole console that is pre-modded [here](https://aquasilvermist.com/collections/xbox-360). If you are feeling adventurous or already know how to solder and want to save a few bucks, you can install the modchip yourself [here](https://www.youtube.com/watch?v=XA7jkvXe5bg).
 
 #### You need a copy of the game
-Right now we only support the DISC version of the game. If you own the digital version of the game (bought on Xbox Marketplace), please get in contact with our mod team. It **IS** possible to create a mod for the digital version, but we need someone who owns that version to help us with testing so we can see if the game files are different and how so.
+Right now we can only 100% confirm support for the DISC version of the game. We have had several reports of CFBR working just fine with the digital version, but nobody on our team owns this version, so we cannot validate this ourselves. If you own the digital version of the game (bought on Xbox Marketplace), let us know what your experience is, especially if you have any trouble. 
 
 #### USB drive (8 GB or larger) formatted as FAT32
 - If you are on a Mac, you can see how do format your USB drive [here](https://support.apple.com/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac). Make sure you select `MS-DOS (FAT)` as your format. **DO NOT** select `ExFAT`.
@@ -74,11 +74,11 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ## DOWNLOAD LINKS (you need all five)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-- [File 1](https://bit.ly/384Sxdq)
-- [File 2](https://bit.ly/34X6Z56)
-- [File 3](https://bit.ly/2MtgHGd)
-- [File 4](https://bit.ly/38QS4L5)
-- [File 5](https://bit.ly/3n4RCxU)
+- [File 1](https://bit.ly/3oxoxfL)
+- [File 2](https://bit.ly/3bsHEEm)
+- [File 3](https://bit.ly/3nxGauS)
+- [File 4](https://bit.ly/3qdDHaN)
+- [File 5](https://bit.ly/3ox6kz9)
 
 ---------
 ## Notes
