@@ -28,6 +28,66 @@
 
 ---------
 
+## V7 - Interface Part 1:
+- Updated full screen overlay banner titles
+- Updated main menu and in-game fonts
+- Updated main menu loading indicator
+- Completely new Warning, Loading, and Press Start Screens
+- Updated highlighted row bar
+- Updated main menu card background textures
+- Replaced Kirk Herbstreit with Lee Corso in dynasty game prediction
+- Redesigned main menu footer
+- Upscaled and redesigned passing icons
+- Updated most main menu icons
+- Redesigned loading screen backgrounds with 16 players:
+    - Ian Book
+    - Shane Buechelle
+    - Jayden Daniels
+    - Sam Ehlinger
+    - Travis Etienne
+    - Justin Fields
+    - Najee Harris
+    - Sam Howell
+    - Chuba Hubbard
+    - Kellen Mond
+    - Rondale Moore
+    - Kyle Pitts
+    - Amon-Ra St. Brown
+    - Derek Stingley
+    - Kayvon Thibideaux
+    - Zach Wilson
+	PLEASE NOTE: When exiting a game the loading screen will always be the same player because of how the original game is set up (this is how the game has always been), so we will rotate that slot each release.
+- Redesigned penalty accept interface
+- Redesigned coin toss interface to mirror ESPN pregame overlay
+- Removed small Coke and Nissan advertisements and replaced larger ones with modern ESPN CFB logos
+- Replaced dynasty story and menu bar backgrounds
+- Redesigned neutral site, rivalry, regional, and national broadcast logos to match ESPN 2020 College Football design
+- Redesigned 126 team logos, 5 FCS logos, and 11 conference logos to match ESPN's 2020 presentation
+- Redesigned in-game full screen overlays (conference standings, great teamwork, last 5 drives, team stats, etc.)
+- Redesigned impact player star
+- Redesigned pregame intro banner overlay
+- Redesigned pre-game loading screen cards (team stats, visiting prospects, top players, etc.)
+- Redesigned in-game coach XP Bar overlay
+- Updated ticker to match ESPN's current ticker
+- Redesigned in-game injury decision interface
+- Redesigned in-game team comparison popup
+- Updated touchdown animation font to match ESPN 2020
+- Redesigned scorebug to as closely mimic ESPN 2020 as we can
+- Redesigned playcalling interface to mimic aspects of ESPN 2020 and fit the overall ESPN 2020 theme
+- Completely redesigned Team Select
+- Redesigned all pre-play adjustments overlays (audibles, hot routes, slide protection, etc.)
+- Updated kick meter to be consistent with the rest of the interface
+- Redesigned instant replay bar
+- Updated post play stat popup
+- Redesigned player of the game overlay
+- Add brief montage video at game launch
+- Updated PRESS START screen idle video
+- Updated main XMB background to newer design
+- Renamed FCS Team Names
+- New helmets, jerseys, pants, team colors, and logos for all 5 FCS teams
+
+---------
+
 ## V5 - Big 12 Part 1 (Kansas, Kansas State, Oklahoma State, TCU, West Virginia):
 - Fixed Boston College throwback jersey number design and alignment
 - Fixed Charlotte and Wake Forest helmet ghosting issues
