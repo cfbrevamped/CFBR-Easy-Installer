@@ -1,6 +1,51 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
-## V7.1 - Performance and Stability Update:
+## V8 - B1G Part One (Released 1/30/2021):
+- Illinois helmets, jerseys, pants, gloves, field, stadium assets, bowl endzone
+- Iowa helmets, jerseys, pants, gloves, field, stadium assets, bowl endzone, socks
+- Michigan helmets, jerseys, pants, gloves, field, stadium assets, bowl endzone, socks
+- Minnesota helmets, jerseys, pants, gloves, field, stadium assets, bowl endzone
+- Northwestern helmets, jerseys, pants, gloves, field, stadium assets, bowl endzone
+- Ohio State helmets, jerseys, pants, gloves, field, stadium assets, bowl endzone, socks
+- Wisconsin helmets, jerseys, pants, gloves, field, stadium assets, bowl endzone
+- North Texas helmets, jerseys, pants, field, stadium assets, bowl endzone
+- new cleats for all brands
+- removed mask to fix team comparison logo clipping
+- updated stadium select pics for all V8 teams
+- updated allstate kickoff classic logo and field
+- added ND bowl jerseys
+- added Oklahoma playoff jerseys and pants
+- added Clemson playoff jerseys and pants
+- added UNC throwback helmet, jersey and pants
+- fixed teams with wrong item associations (UAB, Rutgers, and a few more)
+- updated Rose Bowl field
+- fixed default glove colors to properly match team colors
+- fixed injury popup font
+- small ticker fix
+- small quarter transition fix
+- fixed Clemson goalpost pad ACC logo
+- added blue apron around Florida's field
+- fixed bowl patch placement for all revamped teams so far
+
+**Recruit Generation Fixes:**
+- Assigned more modern/realistic helmets and facemasks based on position
+- Players will now only wear no visor or a clear visor.  Dark visors are gone for auto-generated recruits
+- Decreased the chances of a player wearing a neckpad
+- Made shoulder pad heights more realistic
+- Gave all players tight jersey sleeves (no more "missing stripes")
+- Better arm sleeve assignment
+- Got rid of ugly elbow equipment and equipment will always match between left elbow and right elbow
+- Same thing with wrist equipment except that some of the QBs will have a coach wristband on their non-throwing arm
+- More realistic glove/hand equipment assignment
+- Better bicep and forearm band assignment
+- Got rid of calf bands
+- Better ankle equipment assignment
+- Better knee brace assignment
+- Better flak jacket and back plate assignment
+
+---------
+
+## V7.1 - Performance and Stability Update (Released 1/8/2021):
 **Team-specific Fixes:**
 - Texas State revamped uniforms, helmets, pants, etc. added
 - Texas uniforms, pants, gloves, etc. color corrected
@@ -28,7 +73,7 @@
 
 ---------
 
-## V7 - Interface Part 1:
+## V7 - Interface Part 1 (Released 1/1/2021):
 - Updated full screen overlay banner titles
 - Updated main menu and in-game fonts
 - Updated main menu loading indicator
