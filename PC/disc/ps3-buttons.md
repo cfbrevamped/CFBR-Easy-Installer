@@ -1,4 +1,4 @@
-# <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> College Football Revamped - PC (Disc Copy)
+# <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> College Football Revamped - PC (Disc Copy - <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> PS3 Buttons)
 
 ---------
 ### - These instructions are only for users with a physical disc copy of NCAA Football 14 (game ID BLUS31159). 
