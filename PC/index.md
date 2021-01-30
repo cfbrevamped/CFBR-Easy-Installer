@@ -7,9 +7,9 @@ Your PC mod download will automatically install a roster named **VIKES_CFBR**. T
 
 ---------
 ## Select Your Game Copy - (Physical Disc or PSN Store Digital Download)
-| <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/disc.md"><img width="400" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/BLUS31159.png"></a>  | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/warning.md"><img width="400" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS-store-logo.png">
+| <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/disc/buttons.md"><img width="400" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/BLUS31159.png"></a>  | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/digital/warning.md"><img width="400" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS-store-logo.png">
 |:---:|:---:|
-| [Physical Disc Copy](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/disc.md) | [PSN Store Digital Copy](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/warning.md) |
+| [Physical Disc Copy](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/disc/buttons.md) | [PSN Store Digital Copy](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/digital/warning.md) |
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
