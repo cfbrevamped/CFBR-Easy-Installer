@@ -71,19 +71,20 @@ In the next window, hit "extract all" and select an empty folder inside of your 
 If you are struggling at any point, you can also try to refer to [this video](https://youtu.be/LPxkr5F-8Mk) and try our support channel in our discord server linked below.
 
 ---------
-## DOWNLOAD LINKS (you need all five)
+## DOWNLOAD LINKS (you need all six)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-- [File 1](https://bit.ly/3oxoxfL)
-- [File 2](https://bit.ly/3bsHEEm)
-- [File 3](https://bit.ly/3nxGauS)
-- [File 4](https://bit.ly/3qdDHaN)
-- [File 5](https://bit.ly/3ox6kz9)
+- [File 1](https://bit.ly/3j3Srqm)
+- [File 2](https://bit.ly/3tbYnlN)
+- [File 3](https://bit.ly/36pSasy)
+- [File 4](https://bit.ly/39wqynD)
+- [File 5](https://bit.ly/3ouXTUg)
+- [File 6](https://bit.ly/36p6iSY)
 
 ---------
 ## Notes
-- While this is technically V7, this also contains all the content from older versions.
-- V8 is slated to release alongside the PS3 and PC versions, but keep in mind our team converting the files is very small. Something as small as someone being busy with work or school (remember this is 100% a volunteer project) could delay the conversion, though we don't anticipate that happening.
+- While this is technically V8, this also contains all the content from older versions.
+- V9 is slated to release alongside the PS3 and PC versions, but keep in mind our team converting the files is very small. Something as small as someone being busy with work or school (remember this is 100% a volunteer project) could delay the conversion, though we don't anticipate that happening.
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
