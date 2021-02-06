@@ -11,7 +11,9 @@
   <img width="550" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/utility-tool/4-team.PNG">
 </p>
 
-The NCAA 14 Utility Tool 2.0 is the ultimate **OFFLINE DYNASTY** tool and **DOES NOT** require CFBR to use. With it, you can set up a 4 or 8 team playoff in under 5 minutes, rearrange the Top 25 Polls, edit the matchups for all 34 bowl games, and more. This is just the beginning for this tool and we cannot wait to share with you the features that are planned.
+The NCAA 14 Utility Tool 2.0 is the ultimate **OFFLINE DYNASTY** tool and **DOES NOT** require CFBR to use. With it, you can set up a 4 or 8 team playoff in under 5 minutes, rearrange the Top 25 Polls, edit the matchups for all 34 bowl games, and more. 
+
+Please note, the Utility Tool DOES NOT add the CFP directly into the game. The CFP is done using the tool outside of the game each year. This is just the beginning for this tool and we cannot wait to share with you the features that are planned.
 
 ---------
 ## Download:
