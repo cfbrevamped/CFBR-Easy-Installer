@@ -19,7 +19,7 @@ The NCAA 14 Utility Tool is the ultimate **offline dynasty** tool. With the tool
 |:----|:----|:----|:----|
 | v1.0 | 2/6/2021 | - Windows 7<br>- Windows 8<br>- Windows 10 | [NCAA 14 Utility Tool v1.0](http://bit.ly/NCAA_UtilityTool)
 
-**The utility tool will <ins>NOT</ins> work on MacOS or Parallels.**
+**The Utility Tool will <ins>NOT</ins> work on MacOS or Parallels.**
 
 ---------
 ## Tutorial:
