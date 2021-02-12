@@ -24,9 +24,12 @@ Please note, the Utility Tool DOES NOT add the CFP directly into the game. The C
 **The Utility Tool will <ins>NOT</ins> work on MacOS or Parallels.**
 
 ---------
-## Tutorial:
+## Tutorials:
 
-[![NCAA 14 Utility Tool Tutorial](https://img.youtube.com/vi/pcJVEmalO5I/0.jpg)](https://www.youtube.com/watch?v=pcJVEmalO5I)
+| **System** | **Tutorial Link** |
+|:----|:----|
+| PS3 & PC | [NCAA 14 Utility Tool PS3 & PC Tutorial](https://www.youtube.com/watch?v=pcJVEmalO5I)
+| XBOX 360 | [NCAA 14 Utility Tool XBOX 360 Tutorial](https://youtu.be/0STocNpE7hc)
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
