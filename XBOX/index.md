@@ -74,11 +74,11 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ## DOWNLOAD LINKS (you need all six)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-- [File 1](https://bit.ly/3j3Srqm)
+- [File 1](http://www.mediafire.com/file/bnk70t5aiba8tzz/qkl_boot.ast/file)
 - [File 2](https://bit.ly/3tbYnlN)
-- [File 3](https://www.mediafire.com/file/qhqs8a26zybkz58/qkl_fe2ig.ast/file)
+- [File 3](http://www.mediafire.com/file/ffy6hge7e64nm5e/qkl_fe2ig.ast/file)
 - [File 4](https://bit.ly/39wqynD)
-- [File 5](https://bit.ly/3ouXTUg)
+- [File 5](http://www.mediafire.com/file/iw6n6qunxut11ul/qkl_misc.ast/file)
 - [File 6](https://bit.ly/36p6iSY)
 
 ---------
