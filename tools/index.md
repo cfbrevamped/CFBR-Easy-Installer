@@ -19,9 +19,9 @@ Please note, the Utility Tool DOES NOT add the CFP directly into the game. The C
 ## Download:
 | **Version** | **Release Date** | **System Requirements** | **Download** |
 |:----|:----|:----|:----|
-| v1.0.1 | 2/8/2021 | - Windows 7<br>- Windows 8<br>- Windows 10 | [NCAA 14 Utility Tool v1.0.1](http://bit.ly/NCAA_UtilityTool)
+| v1.0.1 | 2/8/2021 | - Windows 7<br>- Windows 8<br>- Windows 10<br>- Parallels | [NCAA 14 Utility Tool v1.0.1](http://bit.ly/NCAA_UtilityTool)
 
-**The Utility Tool will <ins>NOT</ins> work on MacOS or Parallels.**
+**PARALELLS USERS:** In order to run the Utility Tool 2.0 on MacOS with Parallels, you must first install this [C++ distribution package from Microsoft](https://www.microsoft.com/en-in/download/details.aspx?id=5555). To install, double click the **.exe** file in Parallels.
 
 ---------
 ## Tutorials:
