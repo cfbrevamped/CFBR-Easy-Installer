@@ -11,7 +11,7 @@
 - Reduced FG attempt distance by 3 yards.
 
 **New Plays:**
-- Added 1,100+ new plays, including more than 500 unique plays, to all almost all formations
+- Added 1,100+ new plays, including more than 500 unique plays, to all almost all formations. A complete list of all of the new plays can be found [here.](https://docs.google.com/spreadsheets/d/1rkwieIQAy4Ypg5QqoyCdWFZKJqRodbdAh5_QK3KyJvs/edit#gid=0)
 - Added or edited 10 formations
 - Fixed base game plays like Inverted Veer to correct alignment errors
 
