@@ -17,6 +17,9 @@ Everything here is only needed for first time setup, aside from the console itse
 ###### - If you already have HEN installed on your PS3, you can skip to <ins>step 2</ins>. 
 ---------
 ## PS3 (PSN Store Digital Copy) Download Instructions:
+
+**As a reminder, once you install v9 you will not be able to play other users online UNLESS they are also on CFBR v9. The games will load up, but will likely crash when selecting certain plays. If you have friends or OD members without CFBR, we recommend helping them install the update.**
+
 ### If you have already successfully installed another version of our mod before, you can skip to step 3
 1) Follow [this great YouTube guide to install HEN and Multiman](https://www.youtube.com/watch?v=fOKemRHAZ3c) on your PS3. It should only take 30 minutes to an hour. **YOU CAN SKIP THE OPTIONAL STEP from 13:17-14:29**.
 2) Make sure your game is downloaded to your console as it would be normally if you wanted to play it.
