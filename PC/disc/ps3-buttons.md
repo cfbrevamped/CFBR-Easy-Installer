@@ -14,7 +14,7 @@
 
 ![this](https://i.imgur.com/cJrOFcx.png)
 
-4) Next, [download the Easy Installer PKG file from this link.](http://bit.ly/39t5oqh)
+4) Next, [download the Easy Installer PKG file from this link.](https://www.mediafire.com/file/v590pxygiljy5a5/V9_PC_DISC.pkg/file)
 5) Finally, simply launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/JGcJmNB.png). After that, launch the game and enjoy the mods!
 
 ---------
