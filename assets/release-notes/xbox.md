@@ -1,5 +1,48 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V9 - Gameplay Logic, New Plays, & Stability Release Notes (Released 2/27/2021):
+
+**Gameplay Changes:**
+- CPU AI now has the selection of all 300+ plays in their entire playbook on 1st down, 2nd down, 3rd /4th & short. Default was originally same 35 plays per book. 
+- On 3rd/4th & Long/Medium they have every non PA Shotgun pass play to select from with some screens and draws mixed in. 
+- Defense playcalling is set to match NCAA league averages. 32% Man, 26% Cover 3-4-6, 16% Blitz, 11% Cover 2, 1% Cover 0 Blitz.
+- Changed going no huddle from 1 min to 2 min in the 2nd quarter
+- Increased chances to go for it on 4th and short
+- Reduced FG attempt distance by 3 yards.
+
+**New Plays:**
+- Added 1,100+ new plays, including more than 500 unique plays, to all almost all formations
+- Added or edited 10 formations
+- Fixed base game plays like Inverted Veer to correct alignment errors
+
+**Uniform Changes:**
+- Redid Georgia primary uniforms and added Home and Away Playoff sets
+- Redid Alabama uniforms and added Home and Away Playoff sets
+- Redid Virginia uniforms to include pride stickers, orange numbers on blue helmets, new sleeve stripes, new collar patch on orange jersey, and pants
+- Fixed Michigan bowl patch placement
+- Added helmet numbers to silver Ohio State helmets
+- Added pride stickers, moved american flag down, added state logo, and increased stroke size on UNC throwback helmets
+- Added nameplate to Oklahoma Away Playoff Jerseys
+- Fixed Texas State bowl patch placement
+- Corrected Baylor away uniform preset to be all white
+- Changed shoes for Florida 2019 Homecoming and 2020 Throwback uniforms to black
+- Changed stroke on white South Carolina helmet from white to garnet
+- Fixed overlapping numbers on Iowa uniforms
+- Fixed backwards logo on Ohio State gloves
+- Fixed bumper color on Illinois orange helmets
+- Fixed ghosting effect on Wake Forest black helmets
+
+**General Changes:**
+- Added turf tape to medium skintone
+- Fixed freezing error when attempting to start a Team Builder dynasty
+- Updated Florida stadium select picture to match new field with blue sidelines
+- Removed Illinois uniforms from Indiana presets
+- Darkened Minnesota field colors
+- Fixed UNT white field glitch on PC
+- Updated conference logos shown on flags in pregame intro for ACC and Big 12
+
+---------
+
 ## V8 - B1G Part One (Released 1/30/2021):
 - Illinois helmets, jerseys, pants, gloves, field, stadium assets, bowl endzone
 - Iowa helmets, jerseys, pants, gloves, field, stadium assets, bowl endzone, socks
