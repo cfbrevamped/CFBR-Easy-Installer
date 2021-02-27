@@ -74,7 +74,12 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ## DOWNLOAD LINKS (you need all six)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-- Files currently unavailable as we prepare for our v9 release. New files will be posted today at 3pm ET.
+- [File 1 (qkl_fe2ig)](http://www.mediafire.com/file/d5wzbh2zivqmxvd/qkl_fe2ig.ast/file)
+- [File 2 (qkl_boot)](http://www.mediafire.com/file/1gfzjfyn2q06q04/qkl_boot.ast/file)
+- [File 3 (qkl_misc)](http://www.mediafire.com/file/gvf2ialrbtqdy8i/qkl_misc.ast/file)
+- [File 4 (qkl_interface)](http://www.mediafire.com/file/j8wizmycvc1i0wg/qkl_interface.ast/file)
+- [File 5 (qkl_stream)](http://www.mediafire.com/file/6kqlh0y9rrh4uh5/qkl_stream.ast/file)
+- [File 6 (qkl_cache)](http://www.mediafire.com/file/cpvc4k6r0v8vjpr/qkl_cache.ast/file)
 
 ---------
 ## Notes
