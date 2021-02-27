@@ -43,7 +43,7 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 
 ---------
 ## Future Releases (Dates TBD)
-- **v9:** New plays, updated CPU playcalling logic (no more HB screens - yay), turf tape, and more
+- **v9 (Feb 27 - 3PM ET):** New plays, updated CPU playcalling logic (no more HB screens - yay), turf tape, and more
 - **v10:** Big 10 - Part 2
   - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Indiana_Hoosiers_logo.svg/1200px-Indiana_Hoosiers_logo.svg.png"> Indiana, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maryland_Terrapins_logo.svg/1200px-Maryland_Terrapins_logo.svg.png"> Maryland, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Michigan_State_Athletics_logo.svg/1200px-Michigan_State_Athletics_logo.svg.png"> Michigan State, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nebraska_Cornhuskers_logo.svg/1200px-Nebraska_Cornhuskers_logo.svg.png"> Nebraska, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Penn_State_Nittany_Lions_logo.svg/1200px-Penn_State_Nittany_Lions_logo.svg.png"> Penn State, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Purdue_Boilermakers_logo.svg/1280px-Purdue_Boilermakers_logo.svg.png"> Purdue, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/1153px-Rutgers_Scarlet_Knights_logo.svg.png"> Rutgers
 - **v11:** Pac-12 - Part 1
