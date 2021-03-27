@@ -33,9 +33,11 @@ We will try to fix this in the future, but for now the title update will overwri
 
 ---------
 ## Rosters
-For the best experience, download the latest roster from **OutrunFire0290**. This roster is specifically designed and optimized for the College Football Revamped Mod. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
+For the best experience, download the latest roster from **Sin58**. This roster is specifically designed and optimized for the College Football Revamped Mod. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
 
-- The latest roster updates can be found here, as well as the offline file can be found [here](https://forums.operationsports.com/forums/ncaa-football-rosters/964552-ncaa-football-14-2020-2021-roster-update.html)
+[An offline version of the file can be downloaded, here.](https://github.com/cfbrevamped/CFBR-Easy-Installer/raw/master/assets/ROSTER-NCAAVIKES2021.mc02)
+
+- [The latest roster updates can be found here](https://forums.operationsports.com/forums/ncaa-football-rosters/964552-ncaa-football-14-2020-2021-roster-update.html)
 
 ---------
 ## XBOX 360 Installation Instructions
@@ -74,17 +76,7 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ## DOWNLOAD LINKS (you need all six)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-- [File 1 (qkl_fe2ig)](http://www.mediafire.com/file/d5wzbh2zivqmxvd/qkl_fe2ig.ast/file)
-- [File 2 (qkl_boot)](http://www.mediafire.com/file/1gfzjfyn2q06q04/qkl_boot.ast/file)
-- [File 3 (qkl_misc)](http://www.mediafire.com/file/gvf2ialrbtqdy8i/qkl_misc.ast/file)
-- [File 4 (qkl_interface)](http://www.mediafire.com/file/j8wizmycvc1i0wg/qkl_interface.ast/file)
-- [File 5 (qkl_stream)](http://www.mediafire.com/file/6kqlh0y9rrh4uh5/qkl_stream.ast/file)
-- [File 6 (qkl_cache)](http://www.mediafire.com/file/cpvc4k6r0v8vjpr/qkl_cache.ast/file)
-
----------
-## Notes
-- While this is technically V8, this also contains all the content from older versions.
-- V9 is slated to release alongside the PS3 and PC versions, but keep in mind our team converting the files is very small. Something as small as someone being busy with work or school (remember this is 100% a volunteer project) could delay the conversion, though we don't anticipate that happening.
+**We are currently experiencing technical difficulities. v10 XBOX Files should be available by 1:30PM ET. Please check back then.**
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
