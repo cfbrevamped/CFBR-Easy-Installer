@@ -24,7 +24,7 @@
 
 **General Updates, Tweaks, and Fixes:**
 - Updated "Who's In" dynasty graphic
-- Added 23 rivalry game logos
+- Added 24 rivalry game logos
 - Jayden Daniels will be the loading screen when exiting a game (has been Kyle Pitts, we will rotate this each release going forward)
 - Rescaled all bowl endzones for finished team to be uniform
 - Teams will be in their correct conference by default (no more need to realign conferences when starting a new dynasty)
