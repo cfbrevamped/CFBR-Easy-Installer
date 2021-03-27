@@ -1,5 +1,36 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V10 - B1G Part 2 (Released 3/27/2021):
+
+**Team Updates:**
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Arkansas State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Georgia State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Indiana
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Maryland
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Michigan State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Nebraska
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Penn State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Purdue
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Rutgers
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Troy
+- Fixed Georgia playoff pants preset
+- Fixed UVA blue helmet number spacing
+- Fixed Alabama nameplate on red playoff jersey
+- Fixed LSU jersey 1 digit spacing
+- Fixed pride stickers on FSU gold helmet
+
+**Play Updates:**
+- Added Glance and Peek RPOs
+
+**General Updates, Tweaks, and Fixes:**
+- Updated "Who's In" dynasty graphic
+- Added 23 rivalry game logos
+- Jayden Daniels will be the loading screen when exiting a game (has been Kyle Pitts, we will rotate this each release going forward)
+- Rescaled all bowl endzones for finished team to be uniform
+- Teams will be in their correct conference by default (no more need to realign conferences when starting a new dynasty)
+
+---------
+
 ## V9 - Gameplay Logic, New Plays, & Stability Release Notes (Released 2/27/2021):
 
 **Gameplay Changes:**
