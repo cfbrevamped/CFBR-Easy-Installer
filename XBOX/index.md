@@ -76,7 +76,7 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ## DOWNLOAD LINKS (you need all six)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-**We are currently experiencing technical difficulities. v10 XBOX Files should be available by 1:45PM ET. Please check back then.**
+**We are currently experiencing technical difficulities. v10 XBOX Files should be available by 2:15PM ET. Please check back then.**
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
