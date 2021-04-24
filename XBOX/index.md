@@ -73,7 +73,7 @@ In the next window, hit "extract all" and select an empty folder inside of your 
 If you are struggling at any point, you can also try to refer to [this video](https://youtu.be/LPxkr5F-8Mk) and try our support channel in our discord server linked below.
 
 ---------
-### 4) CFBR DLC Installation
+### 4) (NEW!!!) CFBR DLC Installation
 - All users need to install this extra DLC file
 - Download the DLC file below (it will just be a long string of letters and numbers)
 - Locate the "Content" folder on your USB
