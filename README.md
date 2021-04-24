@@ -1,4 +1,4 @@
-# College Football Revamped v10 Update
+# College Football Revamped v11 Update
 
 <p align="center">
   <img width="750" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png">
