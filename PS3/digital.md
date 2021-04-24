@@ -26,7 +26,7 @@ Everything here is only needed for first time setup, aside from the console itse
 3) Move over to your computer and download the following files:
   - [**PART A (~3GB)**](https://www.mediafire.com/file/sqmuubjzofds0dy/CFBR_PS3_PSN_EASY_INSTALLER_V11_PART_A.pkg/file)
   - [**PART B (~3GB)**](https://www.mediafire.com/file/msxxegt65604wuo/CFBR_PS3_PSN_EASY_INSTALLER_V11_PART_B.pkg/file)
-  - [**PART C (~50MB)**](https://www.mediafire.com/file/2wsomhtxg0ku5if/CFBR_PS3_PSN_EASY_INSTALLER_V11_PART_C.pkg/file)
+  - [**PART C (~30MB)**](https://www.mediafire.com/file/2wsomhtxg0ku5if/CFBR_PS3_PSN_EASY_INSTALLER_V11_PART_C.pkg/file)
 
 4) Drag and drop all files onto the root of your USB drive (this means they should not be inside any folder)
 5) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR_PS3_PSN_EASY_INSTALLER_V10_PART_A.pkg`, `CFBR_PS3_PSN_EASY_INSTALLER_V10_PART_B.pkg`, and `CFBR_PS3_PSN_EASY_INSTALLER_V10_PART_C.pkg`. Select Part A and wait for it to finish installing, then select Part B and wait for that to finish installing, then select Part C and wait for that to finish installing. Please note, Part A will take longer than Parts B & C. If you get an error while installing, go back to the main menu and click on the "enable HEN" button and try again.
