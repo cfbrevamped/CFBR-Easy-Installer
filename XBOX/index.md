@@ -74,14 +74,8 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 
 ---------
 ## DOWNLOAD LINKS (you need all six)
-We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-- [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/l47ncz8hcfd2j58/qkl_fe2ig.ast/file)
-- [File 2 (qkl_boot)](https://www.mediafire.com/file/ong5u75ez8ch9k3/qkl_boot.ast/file)
-- [File 3 (qkl_misc)](https://www.mediafire.com/file/ig7welez5qgbk77/qkl_misc.ast/file)
-- [File 4 (qkl_interface)](https://www.mediafire.com/file/nvzetua4ofjmbrx/qkl_interface.ast/file)
-- [File 5 (qkl_stream)](https://www.mediafire.com/file/1unfjwlt9zjvmw0/qkl_stream.ast/file)
-- [File 6 (qkl_cache)](https://www.mediafire.com/file/0s2dmrsex2cpy67/qkl_cache.ast/file)
+- v11 XBOX release is slightly delayed. Please check our Twitter for updates @cfbrevamped or try again later today. We apologize for the inconvenience.
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
