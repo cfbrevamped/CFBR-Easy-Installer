@@ -1,5 +1,43 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V11 - PAC 12 Part 1 (Released 4/24/2021):
+
+**Team Updates:**
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Arizona
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Louisiana
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for UL-Monroe
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Oregon
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Oregon State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for South Alabama
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Tulane
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for UCLA
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for USC
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Washington State
+- Fixed Florida State helmet stickers - Added a lot more and made maroon helmet stickers dynamic
+- Removed repurposed helmets from Boise State, Utah State, Central Michigan, Eastern Michigan,
+  and New Mexico
+- Fixed Rutgers, Georgia State, and Arkansas State equipment brands
+- Fixed Nebraska Black Shirts helmet reflectiveness at night (was turning gray)
+- Removed 'Home' and 'Away' from Arkansas State alternate uniform presets
+- Added black and white gloves for all 126 schools
+- Made Arkansas State red helmet and Texas A&M maroon helmet less reflective
+- Change default team color nike glove to more closely resemble the Nike Vapor Knit 2.0 glove
+- Updated bowl patch placements and sizes for Revamped teams
+- Fixed Kentucky white helmet facemask color (was purple)
+- Updated Ohio State field color
+
+**General Updates, Tweaks, and Fixes:**
+- Added new 'flat' button icons in all interfaces (PS3 Buttons only)
+- Updated team select PS3 and XBOX 360 controllers to PS5 and Xbox Series Xbox
+- Updated Ohio State, Minnesota, and Advocare Kickoff stadium select images
+- Updated Road To Glory rosters to 2020-2021 season rosters
+    - Conference re-aligment will now be correct in RTG
+    - This also changes the rosters used in online ranked/unranked matches. Similary
+      to the new plays, you must play a user who is on the **same** version of CFBR to avoid
+      crashing mid-game
+
+---------
+
 ## V10 - B1G Part 2 (Released 3/27/2021):
 
 **Team Updates:**
