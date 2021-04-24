@@ -18,7 +18,7 @@ Everything here is only needed for first time setup, aside from the console itse
 ---------
 ## PS3 (PSN Store Digital Copy) Download Instructions:
 
-**As a reminder, once you install v10 you will not be able to play other users online UNLESS they are also on CFBR v10. The games will load up, but will likely crash when selecting certain plays. If you have friends or OD members without CFBR, we recommend helping them install the update.**
+**As a reminder, once you install v11 you will not be able to play other users online UNLESS they are also on CFBR v11. The games will load up, but will likely crash when selecting certain plays. If you have friends or OD members without CFBR, we recommend helping them install the update.**
 
 ### If you have already successfully installed another version of our mod before, you can skip to step 3
 1) Follow [this great YouTube guide to install HEN and Multiman](https://www.youtube.com/watch?v=fOKemRHAZ3c) on your PS3. It should only take 30 minutes to an hour. **YOU CAN SKIP THE OPTIONAL STEP from 13:17-14:29**.
@@ -29,7 +29,7 @@ Everything here is only needed for first time setup, aside from the console itse
   - [**PART C (~30MB)**](https://www.mediafire.com/file/2wsomhtxg0ku5if/CFBR_PS3_PSN_EASY_INSTALLER_V11_PART_C.pkg/file)
 
 4) Drag and drop all files onto the root of your USB drive (this means they should not be inside any folder)
-5) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR_PS3_PSN_EASY_INSTALLER_V10_PART_A.pkg`, `CFBR_PS3_PSN_EASY_INSTALLER_V10_PART_B.pkg`, and `CFBR_PS3_PSN_EASY_INSTALLER_V10_PART_C.pkg`. Select Part A and wait for it to finish installing, then select Part B and wait for that to finish installing, then select Part C and wait for that to finish installing. Please note, Part A will take longer than Parts B & C. If you get an error while installing, go back to the main menu and click on the "enable HEN" button and try again.
+5) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR_PS3_PSN_EASY_INSTALLER_V11_PART_A.pkg`, `CFBR_PS3_PSN_EASY_INSTALLER_V11_PART_B.pkg`, and `CFBR_PS3_PSN_EASY_INSTALLER_V11_PART_C.pkg`. Select Part A and wait for it to finish installing, then select Part B and wait for that to finish installing, then select Part C and wait for that to finish installing. Please note, Part A will take longer than Parts B & C. If you get an error while installing, go back to the main menu and click on the "enable HEN" button and try again.
 6) Once all parts are finished installing, you can remove the USB drive. You should now see a CFBR logo instead of the typical NCAA 14 icon. Launch the game like normal and enjoy the mods!
 
 ---------
