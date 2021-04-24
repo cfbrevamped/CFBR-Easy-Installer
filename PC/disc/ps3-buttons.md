@@ -17,6 +17,7 @@
 4) Next, download BOTH PARTS (yes, v11 has Part B) of the Easy Installer PKG:
   - [**PART A (~6GB)**](https://www.mediafire.com/file/hcc1o3iuwsxf1l3/CFBR_PC_DISC_EASY_INSTALLER_V11_PART_A.pkg/file)
   - [**PART B (~50MB)**](https://www.mediafire.com/file/ekd2bc9ta7vmlo9/CFBR_PC_DISC_EASY_INSTALLER_V11_PART_B.pkg/file)
+
 5) Finally, simply launch RPCS3 and drag the PKG files you just downloaded into the main RPCS3 window (first Part A, then Part B). It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/JGcJmNB.png). After that, launch the game and enjoy the mods!
 
 ---------
