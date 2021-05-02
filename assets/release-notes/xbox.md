@@ -1,5 +1,16 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V11.2  - PAC 12 Part 1 HOTFIX (Released 5/2/2021):
+- Baylor helmet fixes
+- Tulane helmet fixes
+- Kentucky helmet fixes
+- Virginia Tech helmet and white jersey fixes
+- Nebraska scarlet socks added
+- Wake Forest glove fixes
+- other miscellanous fixes to close the gap in differences between XBox, PS3, PC versions of CFBR
+
+---------
+
 ## V11 - PAC 12 Part 1 (Released 4/24/2021):
 
 **Team Updates:**
