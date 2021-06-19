@@ -1,5 +1,36 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V12 - PAC 12 Part 2 (Released 6/19/2021):
+
+**Team Updates:**
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Air Force
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Arizona State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Cal
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Colorado
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Navy
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Stanford
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Utah
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Washington
+- Fixed Florida State helmet stickers
+- Fixed number sizing on Army jerseys
+- Fixed number sizing on Wake Forest jerseys
+- Fixed Nebraska sock issue
+- Updated Indiana Bicentennial jersey to have shoulder numbers
+- Updated Oregon State jersey sleeve cuffs
+- Added black helmet to Northwestern
+- Fixed the Virginia playbook
+- Removed numbers from Syracuse white helmet
+- Updated Ohio State pants
+- Updated various North Texas uniforms
+
+**General Updates, Tweaks, and Fixes:**
+- Fixed the Virginia playbook
+- Removed numbers from Syracuse white helmet
+- Implemented a possible fix for Adidas gloves showing up incorrectly
+
+
+---------
+
 ## V11 - PAC 12 Part 1 (Released 4/24/2021):
 
 **Team Updates:**
