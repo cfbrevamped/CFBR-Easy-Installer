@@ -11,6 +11,7 @@
 - Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Stanford
 - Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Utah
 - Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Washington
+- Added new faces to players
 - Fixed Florida State helmet stickers
 - Fixed number sizing on Army jerseys
 - Fixed number sizing on Wake Forest jerseys
