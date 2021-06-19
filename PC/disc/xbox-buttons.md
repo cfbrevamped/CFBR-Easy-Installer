@@ -14,10 +14,9 @@
 
 ![this](https://i.imgur.com/cJrOFcx.png)
 
-4) Next, download BOTH PARTS (yes, v11 has Part B) of the Easy Installer PKG:
-  - [**PART A (~6GB)**](https://www.mediafire.com/file/ohqhtk75qlrjclf/CFBR_PC_DISC_XB_EASY_INSTALLER_V11_PART_A.pkg/file)
-  - [**PART B (~50MB)**](https://www.mediafire.com/file/btq1m31onvo3mg5/CFBR_PC_DISC_XB_EASY_INSTALLER_V11_PART_B.pkg/file)
+4) Next, download the Easy Installer PKG:
+  - [**PC Disc (~6GB)**](https://www.mediafire.com/file/y70w7va9m8rbwf4/CFBR_PC_DISC_XB_EASY_INSTALLER_V12.pkg/file)
 
-5) Finally, simply launch RPCS3 and drag the PKG files you just downloaded into the main RPCS3 window (first Part A, then Part B). It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/JGcJmNB.png). After that, launch the game and enjoy the mods!
+5) Finally, simply launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/JGcJmNB.png). After that, launch the game and enjoy the mods!
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
