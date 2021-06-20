@@ -95,6 +95,6 @@ We apologize for having to use this site to host our files. We know it has slowe
 - [File 5 (qkl_stream)](https://www.mediafire.com/file/r9jan12343afw8x/qkl_stream.ast/file)
 - [File 6 (qkl_cache)](https://www.mediafire.com/file/0s2dmrsex2cpy67/qkl_cache.ast/file)
 - [File 7 (DLC FEF61)](https://www.mediafire.com/file/0pt40f9zpn2w9kv/FEF61E165BDE29CF8B2153D152A3743D108948C845/file)
-
+- BE SURE YOU HAVE READ STEP 4 BEFORE INSTALLING DLC!
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
