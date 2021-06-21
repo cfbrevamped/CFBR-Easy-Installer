@@ -1,5 +1,19 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V12.1 - PAC 12 Part 2 HOTFIX (Released 6/21/2021):
+
+**General Updates, Tweaks, and Fixes:**
+- Fixed roster issue that affected Rice (PC Only)
+- Fixed numbers not showing on ASU maroon helmet
+- Fixed Hawaii home jersey showing up as Ohio State
+- Fixed SMU helmet showing up as Navy
+- Fixed Washington gloves, sleeves, and pants
+- Fixed Colorado shoulder numbers
+- Fixed Colorado gloves
+- Fixed Vanderbilt gloves
+
+---------
+
 ## V12 - PAC 12 Part 2 (Released 6/19/2021):
 
 **Team Updates:**
@@ -11,7 +25,6 @@
 - Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Stanford
 - Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Utah
 - Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Washington
-- Added new faces to players
 - Fixed Florida State helmet stickers
 - Fixed number sizing on Army jerseys
 - Fixed number sizing on Wake Forest jerseys
@@ -28,7 +41,6 @@
 - Fixed the Virginia playbook
 - Removed numbers from Syracuse white helmet
 - Implemented a possible fix for Adidas gloves showing up incorrectly
-
 
 ---------
 
