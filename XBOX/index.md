@@ -88,7 +88,7 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ## DOWNLOAD LINKS (you need all seven)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-## If you downloaded V12 previously you only need to download the DLC, fe2ig, and stream files.
+## If you downloaded V12 previously you only need the DLC, fe2ig, and stream files.
 
 - [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/0unmp2v4x15lv1q/qkl_fe2ig.ast/file)
 - [File 2 (qkl_boot)](https://www.mediafire.com/file/ydyvtrdwf6ah4qq/qkl_boot.ast/file)
