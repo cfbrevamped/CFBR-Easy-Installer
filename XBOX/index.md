@@ -88,13 +88,15 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ## DOWNLOAD LINKS (you need all seven)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-- [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/ei9jt587qntwa11/qkl_fe2ig.ast/file)
+## If you downloaded V12 previously you only need to download the DLC, fe2ig, and stream files.
+
+- [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/0unmp2v4x15lv1q/qkl_fe2ig.ast/file)
 - [File 2 (qkl_boot)](https://www.mediafire.com/file/ydyvtrdwf6ah4qq/qkl_boot.ast/file)
 - [File 3 (qkl_misc)](https://www.mediafire.com/file/6em6qxjdrz3mqx5/qkl_misc.ast/file)
 - [File 4 (qkl_interface)](https://www.mediafire.com/file/amqwc2nhg1ib4pa/qkl_interface.ast/file)
-- [File 5 (qkl_stream)](https://www.mediafire.com/file/r9jan12343afw8x/qkl_stream.ast/file)
+- [File 5 (qkl_stream)](https://www.mediafire.com/file/tyvr8q9dkkpm6op/qkl_stream.ast/file)
 - [File 6 (qkl_cache)](https://www.mediafire.com/file/0s2dmrsex2cpy67/qkl_cache.ast/file)
-- [File 7 (DLC FEF61)](https://www.mediafire.com/file/0pt40f9zpn2w9kv/FEF61E165BDE29CF8B2153D152A3743D108948C845/file)
+- [File 7 (DLC FEF61)](https://www.mediafire.com/file/vuocngy91hwjdcg/FEF61E165BDE29CF8B2153D152A3743D108948C845/file)
 - BE SURE YOU HAVE READ STEP 4 BEFORE INSTALLING DLC!
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
