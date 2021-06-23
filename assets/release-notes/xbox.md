@@ -1,5 +1,19 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V12.1 - PAC 12 Part 2 HOTFIX (Released 6/22/2021):
+
+**General Updates, Tweaks, and Fixes:**
+- Fixed numbers not showing on ASU maroon helmet
+- Fixed Ohio State red playoff shoulder numbers
+- Fixed Hawaii home jersey showing up as Ohio State
+- Fixed SMU helmet showing up as Navy
+- Fixed Washington gloves, sleeves, and pants
+- Fixed Colorado shoulder numbers
+- Fixed Colorado gloves
+- Fixed Vanderbilt gloves
+
+---------
+
 ## V12 - PAC 12 Part 2 (Released 6/20/2021):
 
 **Team Updates:**
