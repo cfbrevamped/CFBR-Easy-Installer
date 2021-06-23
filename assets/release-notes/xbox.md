@@ -3,6 +3,7 @@
 ## V12.1 - PAC 12 Part 2 HOTFIX (Released 6/22/2021):
 
 **General Updates, Tweaks, and Fixes:**
+- Added new face textures
 - Fixed numbers not showing on ASU maroon helmet
 - Fixed Ohio State red playoff shoulder numbers
 - Fixed Hawaii home jersey showing up as Ohio State
