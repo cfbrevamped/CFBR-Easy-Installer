@@ -1,5 +1,32 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V13 - AAC (Released 7/4/2021):
+
+**Team Updates:**
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Cincinnati
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for ECU
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Houston
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Memphis
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for SMU
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Temple
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Tulsa
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for UCF
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for USF
+- Fixed issue with Washington Black Jerseys as away team
+- Fixed issue with LSU wearing Purple Jerseys as away team
+- Swapped ASU Throwback Helmet for ASU Gold helmet
+- Fixed Utah Pants stripe issue
+- Added Crimson Socks to Utah
+- Removed ASU Pants from Wyoming
+
+**General Updates, Tweaks, and Fixes:**
+- Various performance improvements
+- Fixed crashing issues with Michigan, North Carolina, and Oklahoma
+- Updated team logos for Memphis and Western Michigan
+- Updated CFP Championship Field
+
+---------
+
 ## V12.1 - PAC 12 Part 2 HOTFIX (Released 6/21/2021):
 
 **General Updates, Tweaks, and Fixes:**
