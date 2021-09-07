@@ -1,5 +1,34 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V14 - MWC (Released 9/7/2021):
+
+**Team Updates:**
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Boise State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Colorado State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Fresno State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Hawaii
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Nevada
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for New Mexico
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for San Diego State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for San Jose State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for UNLV
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Utah State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Wyoming
+- Added new intro video for 2021 season
+- Added new main menu icon for 2021 season
+- Added UCF 2020 Space uniforms
+- Added Navy 2020 Anniversary uniforms
+- Added Kansas Hail to Old KU uniforms
+- Added white & black gloves to USF
+- Fixed Penn State Throwback issue
+- Fixed black line on Memphis helmets
+- Added Blue Socks to Tulsa
+
+**General Updates, Tweaks, and Fixes:**
+- Various performance improvements
+
+---------
+
 ## V13 - AAC (Released 7/4/2021):
 
 **Team Updates:**
