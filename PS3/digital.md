@@ -24,7 +24,7 @@ Everything here is only needed for first time setup, aside from the console itse
 1) Follow [this great YouTube guide to install HEN and Multiman](https://www.youtube.com/watch?v=fOKemRHAZ3c) on your PS3. It should only take 30 minutes to an hour. **YOU CAN SKIP THE OPTIONAL STEP from 13:17-14:29**.
 2) Make sure your game is downloaded to your console as it would be normally if you wanted to play it.
 3) Move over to your computer and download the following files:
-  - [**PART A (~3GB)**](https://www.mediafire.com/file/st0mze8ejy983xh/CFBR_PS3_PSN_EASY_INSTALLER_V14_PART_A.pkg/file)
+  - [**PART A (~3GB)**](https://www.mediafire.com/file/hnivsweqwn1osub/CFBR_PS3_PSN_EASY_INSTALLER_V14_PART_A.pkg/file)
   - [**PART B (~3GB)**](https://www.mediafire.com/file/wt9gc4vfhbcqads/CFBR_PS3_PSN_EASY_INSTALLER_V14_PART_B.pkg/file)
 
 4) Drag and drop all files onto the root of your USB drive (this means they should not be inside any folder)
