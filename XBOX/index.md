@@ -74,7 +74,7 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 
 ---------
 ### 4) (NEW!!!) CFBR DLC Installation
-- IMPORTANT: If you previously installed v11 using our other DLC file, you MUST delete that one and ONLY install this one for now
+- IMPORTANT: If you previously installed v11, v12, or v13 using our other DLC file, you MUST delete that one and ONLY install this one for now
 - All users need to install this extra DLC file
 - Download the DLC file below (it will just be a long string of letters and numbers)
 - Locate the "Content" folder on your USB
@@ -88,13 +88,13 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ## DOWNLOAD LINKS (you need all seven)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-- [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/g52scho4vph7nfm/qkl_fe2ig.ast/file)
-- [File 2 (qkl_boot)](https://www.mediafire.com/file/7cjlt27o7mzbdth/qkl_boot.ast/file)
-- [File 3 (qkl_misc)](https://www.mediafire.com/file/id78rwvni2wx2wy/qkl_misc.ast/file)
-- [File 4 (qkl_interface)](https://www.mediafire.com/file/41mgp6kjnh9ytbc/qkl_interface.ast/file)
-- [File 5 (qkl_stream)](https://www.mediafire.com/file/izv2jjz8u6lvj0y/qkl_stream.ast/file)
+- [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/ezhub999higl6iv/qkl_fe2ig.ast/file)
+- [File 2 (qkl_boot)](https://www.mediafire.com/file/bvrwrfkg3z5hj5l/qkl_boot.ast/file)
+- [File 3 (qkl_misc)](https://www.mediafire.com/file/3vc3wdtypbp26p9/qkl_misc.ast/file)
+- [File 4 (qkl_interface)](https://www.mediafire.com/file/ag7gi6adb6g90wg/qkl_interface.ast/file)
+- [File 5 (qkl_stream)](https://www.mediafire.com/file/9fx12vkr09htlbq/qkl_stream.ast/file)
 - [File 6 (qkl_cache)](https://www.mediafire.com/file/0s2dmrsex2cpy67/qkl_cache.ast/file)
-- [File 7 (DLC FEF61)](https://www.mediafire.com/file/6n7mag03vov7fub/FEF61E165BDE29CF8B2153D152A3743D108948C845/file)
+- [File 7 (DLC FEF61)](https://www.mediafire.com/file/v4hjxhherqc58vw/FEF61E165BDE29CF8B2153D152A3743D108948C845/file)
 - BE SURE YOU HAVE READ STEP 4 BEFORE INSTALLING DLC!
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
