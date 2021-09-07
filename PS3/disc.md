@@ -27,7 +27,7 @@ Everything here is only needed for first time setup, aside from the console itse
 3) Now, hover over the NCAA 14 icon and hit Triangle. A menu will pop up. Click copy, then click `PS3 HDD (/dev_hdd0)`. It will probably ask you "Do you want to copy the game from BD-ROM to internall HDD?". Select "yes".
 4) This should take anywhere from 15-30 minutes to copy all the files over. Once it is done, you can click Square to continue. Then eject your disc (you will never need your disc again, you can keep it in the case forever) and quit out of multiMAN. If you got an error saying the process was aborted, please clean your disc and try again. 
 5) Move over to your computer and download the following files:
-  - [**PART A (~3GB)**](https://www.mediafire.com/file/3o9zjbqryt0on5q/CFBR_PS3_DISC_EASY_INSTALLER_V14_PART_A.pkg/file)
+  - [**PART A (~3GB)**](https://www.mediafire.com/file/8k7rvdhtqny5p3n/CFBR_PS3_DISC_EASY_INSTALLER_V14_PART_A.pkg/file)
   - [**PART B (~3GB)**](https://www.mediafire.com/file/320y70nnka2rmrz/CFBR_PS3_DISC_EASY_INSTALLER_V14_PART_B.pkg/file)
 
 6) Drag and drop all files onto the root of your USB drive (this means they should not be inside any folder).
