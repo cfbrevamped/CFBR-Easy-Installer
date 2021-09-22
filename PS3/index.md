@@ -1,10 +1,9 @@
 # <img width="50" src="https://www.freepnglogos.com/uploads/playstation-png-logo/navy-playstation-png-logo-5.png"> College Football Revamped - PS3 Download Instructions
 
 ## Rosters
-For the best experience, download the latest roster from **CFBR20**. This roster is specifically designed and optimized for the College Football Revamped Mod. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
+For the best experience, download the latest roster from Vikesfan and his team as seen below. This roster is specifically designed and optimized for the College Football Revamped Mod. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
 
-- [**CFBR20 offline file**](https://github.com/cfbrevamped/CFBR-Easy-Installer/raw/master/assets/PS3.zip)
-- The latest roster updates, as well as an offline file can be found [here](https://forums.operationsports.com/forums/ncaa-football-rosters/964552-ncaa-football-14-2020-2021-roster-update.html)
+- The latest roster updates, as well as an offline file can be found [here](https://forums.operationsports.com/forums/ncaa-football-rosters/981086-ncaa-football-14-2021-2022-roster-update.html)
 
 ---------
 
