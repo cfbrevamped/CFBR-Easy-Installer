@@ -33,7 +33,7 @@ We will try to fix this in the future, but for now the title update will overwri
 
 ---------
 ## Rosters
-For the best experience, download the latest roster from **Sin58**. This roster is specifically designed and optimized for the College Football Revamped Mod. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
+For the best experience, download the latest roster down below. This roster is specifically designed and optimized for the College Football Revamped Mod. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
 
 [An offline version of the file can be downloaded, here.](https://github.com/cfbrevamped/CFBR-Easy-Installer/raw/master/assets/ROSTER-NCAAVIKES22.MC02)
 
