@@ -1,5 +1,26 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V14.1 - Quickfix (Released 9/4/2021):
+
+**Team Updates:**
+- Added Colorado State pride uniforms
+- Fixed Navy gold pants
+- Fixed Navy blue pants
+- Added Michigan blue pants
+- Added Wyoming yellow Jersey
+- Added Wyoming white pants
+- Added the Barstool Bowl
+- Fixed Hawaii helmet numbers
+- Fixed SJSU white jersey numbers
+- Fixed UNLV Hey Reb black jersey
+- Fixed bowl patches for Sun Belt teams
+
+**General Updates, Tweaks, and Fixes:**
+- Updated rosters to the 2021 season
+- New player loading screens for the 2021 season
+
+---------
+
 ## V14 - MWC (Released 9/7/2021):
 
 **Team Updates:**
