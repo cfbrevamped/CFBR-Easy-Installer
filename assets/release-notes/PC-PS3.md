@@ -1,5 +1,24 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V14.1 - Quickfix (Released 9/4/2021):
+
+**Team Updates:**
+- Added Michigan blue pants
+- Added Wyoming yellow Jersey
+- Added Wyoming white pants
+- Added the Barstool Bowl
+- Fixed Colorado State Pride pants stripe
+- Fixed Hawaii helmet numbers
+- Fixed SJSU white jersey numbers
+- Fixed UNLV Hey Reb black jersey
+- Fixed bowl patches for Sun Belt teams
+
+**General Updates, Tweaks, and Fixes:**
+- Updated rosters to the 2021 season
+- New player loading screens for the 2021 season
+
+---------
+
 ## V14 - MWC (Released 9/4/2021):
 
 **Team Updates:**
