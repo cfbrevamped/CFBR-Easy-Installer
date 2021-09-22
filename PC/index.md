@@ -1,9 +1,9 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> College Football Revamped - PC Download Instructions
 
 ## Rosters
-Your PC mod download will automatically install a roster named **VIKES_CFBR**. This roster is optimized for the College Football Revamped Mod and designed to provide you with the best experience. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
+Your PC mod download will automatically install a roster named **CFBRV14**. This roster is optimized for the College Football Revamped Mod and designed to provide you with the best experience. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
 
-[The latest roster updates can be found here.](https://forums.operationsports.com/forums/ncaa-football-rosters/964552-ncaa-football-14-2020-2021-roster-update.html)
+[The latest roster updates can be found here.](https://forums.operationsports.com/forums/ncaa-football-rosters/981086-ncaa-football-14-2021-2022-roster-update.html)
 
 ---------
 ## Select Your Game Copy - (Physical Disc or PSN Store Digital Download)
