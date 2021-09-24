@@ -37,8 +37,6 @@ For the best experience, download the latest roster down below. This roster is s
 
 [An offline version of the file can be downloaded, here.](https://github.com/cfbrevamped/CFBR-Easy-Installer/raw/master/assets/ROSTER-NCAAVIKES22.MC02)
 
-- [The latest roster updates can be found here](https://forums.operationsports.com/forums/ncaa-football-rosters/981086-ncaa-football-14-2021-2022-roster-update.html)
-
 ---------
 ## XBOX 360 Installation Instructions
 
