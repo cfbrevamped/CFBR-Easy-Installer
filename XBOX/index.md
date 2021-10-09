@@ -78,7 +78,7 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 - Locate the "Content" folder on your USB
 - Create the following path on your computer: USB: Content\0000000000000000\454109B6\00000002. (If you are running your game from HDD, you can create the same path on your Xbox using one of the various dashboards: XEX, Aurora or Freestyle, and then transfer the DLC file from USB to HDD)
 - Place the DLC file in 00000002 folder
-- You will know it worked if Hawaii has one black helmet and one white helmet
+- You will know it worked if Toledo has all 3 helmets
 
 If you are struggling at any point, you can also try to refer to [this video](https://youtu.be/LPxkr5F-8Mk) and try our support channel in our discord server linked below.
 
@@ -86,13 +86,13 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ## DOWNLOAD LINKS (you need all seven)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-- [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/j0bcq7qo1ldz6b0/qkl_fe2ig.ast/file)
-- [File 2 (qkl_boot)](https://www.mediafire.com/file/wiy5dedluqhmxtq/qkl_boot.ast/file)
-- [File 3 (qkl_misc)](https://www.mediafire.com/file/izgzzqtyy22cvtv/qkl_misc.ast/file)
-- [File 4 (qkl_interface)](https://www.mediafire.com/file/jvwnpiv5123otw9/qkl_interface.ast/file)
+- [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/zw41oe459az5nsv/qkl_fe2ig.ast/file)
+- [File 2 (qkl_boot)](https://www.mediafire.com/file/j2qavdm207dkuki/qkl_boot.ast/file)
+- [File 3 (qkl_misc)](https://www.mediafire.com/file/mw577sy3mk2p22u/qkl_misc.ast/file)
+- [File 4 (qkl_interface)](https://www.mediafire.com/file/5ycnd70nkgq9pb5/qkl_interface.ast/file)
 - [File 5 (qkl_stream)](https://www.mediafire.com/file/9fx12vkr09htlbq/qkl_stream.ast/file)
 - [File 6 (qkl_cache)](https://www.mediafire.com/file/0s2dmrsex2cpy67/qkl_cache.ast/file)
-- [File 7 (DLC FEF61)](https://www.mediafire.com/file/juh8bzhnclfwa84/FEF61E165BDE29CF8B2153D152A3743D108948C845/file)
+- [File 7 (DLC FEF61)](https://www.mediafire.com/file/e1h7odayeyefmlo/FEF61E165BDE29CF8B2153D152A3743D108948C845/file)
 - BE SURE YOU HAVE READ STEP 4 BEFORE INSTALLING DLC!
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
