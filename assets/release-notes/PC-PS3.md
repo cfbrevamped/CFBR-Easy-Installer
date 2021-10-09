@@ -1,5 +1,27 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V15 - MAC (Released 9/4/2021):
+
+**Team Updates:**
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Akron
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Ball State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Bowling Green
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Buffalo
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Central Michigan
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Eastern Michigan
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Kent State
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Miami (OH)
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Northern Illinois
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Ohio
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Toledo
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Western Michigan
+- Updated uniforms for Arkansas
+- Updated unifroms for Tennessee
+- Updated uniforms for UCLA
+- Added Florida 9/11 Tribute helmet
+- Added Florida 2021 Throwback helmet
+- Added Ohio State red pants
+
 ## V14.1 - Quickfix (Released 9/4/2021):
 
 **Team Updates:**
