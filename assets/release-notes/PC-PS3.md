@@ -1,6 +1,37 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
-## V15 - MAC (Released 9/4/2021):
+## V16 - C-USA (Released 11/6/2021):
+
+**Team Updates:**
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Florida Atlantic
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Florida International
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Louisiana Tech
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Marshall
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Middle Tennessee
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Old Dominion
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Rice
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Southern Mississippi
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for UAB
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for UTEP
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for UTSA
+- Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Western Kentucky
+- Updated gloves for Tennessee
+- Updated smokey grey pants for Tennessee
+- Updated Central Michigan helmet
+- Updated Bowling Green Orange helmet
+- Added 9 new Kansas helmets
+
+**General Updates, Tweaks, and Fixes:**
+- Updated stadium select images for all C-USA teams
+- Updated to the most recent rosters
+- Fixed Western Michigan mixmatch
+- Fixed Bowling Green field
+- Fixed Ohio field
+- Fixed Ohio bowl endzone
+
+---------
+
+## V15 - MAC (Released 10/9/2021):
 
 **Team Updates:**
 - Updated field, helmets, jerseys, pants, gloves, socks, and bowl endzones for Akron
