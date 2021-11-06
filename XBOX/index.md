@@ -74,7 +74,7 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ### 4) (NEW!!!) CFBR DLC Installation
 - IMPORTANT: If you previously installed CFBR using our other DLC file, you MUST delete that one and ONLY install the two provided
 - All users need to install these extra DLC files
-- Download the DLC files below (it will just be a long string of letters and numbers)
+- Download the DLC files below (DLC #1 & DLC #2)
 - Locate the "Content" folder on your USB
 - Create the following path on your computer: USB: Content\0000000000000000\454109B6\00000002. (If you are running your game from HDD, you can create the same path on your Xbox using one of the various dashboards: XEX, Aurora or Freestyle, and then transfer the DLC file from USB to HDD)
 - Place the DLC files in 00000002 folder
