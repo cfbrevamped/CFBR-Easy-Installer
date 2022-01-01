@@ -1,4 +1,4 @@
-# College Football Revamped v16 Update
+# College Football Revamped v17 Update
 
 <p align="center">
   <img width="750" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png">
@@ -16,7 +16,6 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 
 ## Known Mod Issues:
 - **Pink (or miscolored) cleats for Charlotte, Coastal Carolina, App State, Georgia Southern, and Pitt in uniform select:** This is glitch with the original game that we cannot fix. The issue will only show during uniform select. All team colors will properly show in game. 
-- **Coastal Carolina white helmet shows as UTEP. This will be fixed very soon.
 
 Of course, if you have any additonal questions, please join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
 
@@ -32,9 +31,9 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 ## Current Releases:
 | **System** | **Release** | **Release Date** | **Patch Notes** |
 |:----|:----|:----|:----|
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v16 | 11/6/2021 | [v16 PC Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v16 | 11/6/2021 | [v16 PS3 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> | v16 | 11/6/2021 | [v16 XBOX 360 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/xbox.md)
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v17 | 1/1/2022 | [v17 PC Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v17 | 1/1/2022 | [v16 PS7 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> | v17 | 1/1/2022 | [v17 XBOX 360 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/xbox.md)
 
 ## Select Your Device - (PC, PS3, or XBOX 360)
 | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"></a>  | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox.jpg">
@@ -57,7 +56,8 @@ Of course, if you have any additonal questions, please join our <img width="20" 
   - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Akron_Zips_logo.svg"> Akron, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/e/e4/Ball_State_Cardinals_logo.svg"> Ball State, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/2/2b/Bowling_Green_Falcons_logo.svg"> Bowling Green, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/5e/Buffalo_Bulls_Athletic_Logo.svg"> Buffalo, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Central_Michigan_Chippewas_logo.svg"> Central Michigan, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Eastern_Michigan_Eagles_logo.svg"> Eastern Michigan, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/a/a6/Kent_State_athletic_logo.svg"> Kent State, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Miami_Redhawks_logo.svg"> Miami (OH), <img height="20" src="https://upload.wikimedia.org/wikipedia/en/8/87/Northern_Illinois_Huskies_logo.svg"> Northern Illinois, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/7/78/Ohio_Bobcats_logo.svg"> Ohio, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/f/fa/Toledo_Rockets_logo.svg"> Toledo, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Western_Michigan_Athletics_wordmark.svg"> Western Michigan
 - **v16 (Released 11/6/2021):** C-USA
   - <img height="20" src="https://upload.wikimedia.org/wikipedia/en/4/40/Florida_Atlantic_Owls_logo.svg"> FAU, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/1/1d/FIU_Panthers_logo.svg"> FIU, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/8/86/Louisiana_Tech_Athletics_logo.svg"> Louisiana Tech, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Marshall_Thundering_Herd_logo.svg"> Marshall, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Middle_Tennessee_MT_Logomark.svg"> Middle Tennessee, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Old_Dominion_Athletics_wordmark.svg"> Old Dominion, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rice_Owls_logo.svg"> Rice, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg"> Southern Miss, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/f/ff/UAB_Blazers_logo.svg"> UAB, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/0/06/UTEP_Miners_logo.svg"> UTEP, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/84/UTSA_Roadrunners_logo.svg"> UTSA, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/1/1d/WKU_Athletics_logo.svg"> Western Kentucky
-- **v17+:** TBA
+- **v17 (Released 1/1/2022):** SEC Redo
+- **v18+:** (TBA)
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
