@@ -1,5 +1,40 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V17 - SEC Redo (Released 1/1/2022):
+
+**Major Updates:**
+- Updated scorebug to match ESPN
+- Updated quarter transition to match ESPN
+- Updated cover athlete to Bryce Young
+- Updated intro video
+- Updated loading screens
+- Updated or added the following stadiums from Madden 17:
+    - AT&T Stadium (B12 Championship), AT&T Stadium (Cotton Bowl), AT&T Stadium (AllState Kickoff), Soldier Field, Arrowhead Stadium, Hard Rock Stadium (Miami), Mercedes Benz Stadium (SEC Championship), "Allegiant" Stadium (P12 Championship), "Allegiant" Stadium (UNLV), Lincoln Financial Field (Temple), Lambeau Field,  Los Angeles Memorial Coliseum (USC), and Raymond James Stadium (USF)
+- Updated roster for V17
+
+**Team Updates:**
+- Updated helmets, jerseys, pants, gloves, and socks for Auburn
+- Updated helmets, jerseys, pants, gloves, and socks for LSU
+- Updated helmets, jerseys, pants, gloves, and socks for Missouri
+- Updated helmets, jerseys, pants, gloves, and socks for Mississippi State
+- Updated helmets, jerseys, pants, gloves, and socks for Ole Miss
+- Updated helmets, jerseys, pants, gloves, and socks for Tennessee
+- Updated helmets, jerseys, pants, gloves, and socks for Texas A&M
+- Updated helmets, jerseys, pants, gloves, and socks for Vanderbilt
+- Added or updated helmets for the following teams:
+    - Alabama, Clemson, Coastal Carolina, Colorado, Colorado State, Fresno State, Illinois, Indiana, Iowa, Iowa State, Kansas, Kentucky, Michigan, Michigan State, Minnesota, Northwestern, Old Dominion, Pitt, Purdue, San Jose State, South Carolina, Texas, Tulane, UAB, Virginia, Virginia Tech, Washington State
+
+Added or updated socks for the following teams:
+    - Akron, Cal, ECU, Florida, MTSU, Navy, Rice, Syracuse, Toledo, UCLA, USF, UTSA, Washington
+
+**General Updates, Tweaks, and Fixes:**
+- Updated jersey number positioning for Georgia
+- Updated jersey number positioning for Colorado State
+- Updated fields for the following:
+    - LA Bowl, Boise State, Military Bowl, First Responder Bowl, Hawaii, Hawaii Bowl, Good Sam Houston Kickoff, Independence Bowl, Guaranteed Rate Bowl, MAC Championship, LendingTree Bowl, Quick Lane Bowl, New Mexico Bowl, San Jose State, Gasparilla Bowl, Texas, and Utah
+
+---------
+
 ## V16 - C-USA (Released 11/6/2021):
 
 **Team Updates:**
