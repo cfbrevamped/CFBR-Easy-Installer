@@ -9,7 +9,7 @@
 - PS3 console (any model)
 - USB drive (8 GB or larger)
 - Some kind of computer (any Windows PC, Mac, or even Chromebook will work)
-- Either a phsical game disc or a copy of the game files
+- Either a physical game disc or a copy of the game files
 
 Everything here is only needed for first time setup, aside from the console itself of course.
 
