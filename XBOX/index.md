@@ -72,7 +72,7 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 
 ---------
 ### 4) (NEW!!!) CFBR DLC Installation
-- IMPORTANT: If you previously installed CFBR using our other DLC file, you MUST delete that one and ONLY install the two provided
+- IMPORTANT: If you previously installed CFBR using our other DLC file, you MUST delete them and ONLY install the ones provided
 - All users need to install these extra DLC files
 - Download the DLC files below (DLC #1 - DLC #5)
 - Locate the "Content" folder on your USB
