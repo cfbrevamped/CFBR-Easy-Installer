@@ -10,7 +10,7 @@ For the best experience, download the latest roster from Vikesfan and his team a
 ## Select Your Game Copy - (Physical Disc or PSN Store Digital Download)
 | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/disc_warning.md"><img width="400" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/BLUS31159.png"></a>  | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/warning.md"><img width="400" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS-store-logo.png">
 |:---:|:---:|
-| [Physical Disc Copy](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/disc.md) | [PSN Store Digital Copy](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/warning.md) |
+| [Physical Disc Copy](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/disc_warning.md) | [PSN Store Digital Copy](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/warning.md) |
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
