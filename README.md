@@ -38,7 +38,7 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 ## Select Your Device - (PC, PS3, or XBOX 360)
 | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"></a>  | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/xbox_warning.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox.jpg">
 |:---:|:---:|:---:|
-| [PC](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md) | [PS3](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md) | [XBOX 360](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/index.md) |
+| [PC](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md) | [PS3](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md) | [XBOX 360](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/xbox_warning.md) |
 
 ---------
 ## Future Releases (Dates TBD)
