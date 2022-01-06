@@ -11,7 +11,7 @@
 2) If you have set up RPCS3 before, delete your `games.yml` file in your RPCS3 folder. If you are setting up RPCS3 for the first time, you can skip this step.
 3) Install your game by opening RPCS3 and then dragging and dropping the game PKG into the main window. It will take a few minutes to install. Then place your RAP (license) files in `dev_hdd0/home/00000001/exdata`. If any of this is confusing to you, make sure you have followed the [RPCS3 guide to get your game PKG and license files](https://wiki.rpcs3.net/index.php?title=Help:Dumping_PlayStation_3_games#Dumping_PSN_games). 
 4) Next, download the Easy Installer PKG:
-  - [**PC Digital (~6GB)**](https://www.mediafire.com/file/tcw5goy99ac7ycy/CFBR_PC_PSN_XB_EASY_INSTALLER_V17.pkg/file)
+  - [**PC Digital (~6GB)**](https://www.mediafire.com/file/tb5ehj8043ad2qs/CFBR_PC_PSN_XB_EASY_INSTALLER_V17.1.pkg/file)
 
 5) Finally, launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/3DROoLk.png). After that, launch the game and enjoy the mods!
 

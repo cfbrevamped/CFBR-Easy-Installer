@@ -1,5 +1,17 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V17.1 - Quickfix (Released 1/6/2022):
+
+**Major Updates:**
+- Users can now select whether or not to use the new scorebug (PS3 Only)
+
+**Team Updates:**
+- Fixed Alabama playoff jerseys
+- Fixed Coastal Carolina white helmet
+
+**General Updates, Tweaks, and Fixes:**
+- Fixed crashing and bugs for multiple stadiums
+
 ## V17 - SEC Redo (Released 1/1/2022):
 
 **Major Updates:**

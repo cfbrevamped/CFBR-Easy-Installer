@@ -1,5 +1,10 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V17.1 - Quickfix (Released 1/6/2022):
+
+**Major Updates:**
+- Users can now select whether or not to use the new scorebug
+
 ## V17 - SEC Redo (Released 1/1/2022):
 
 **Major Updates:**
