@@ -32,12 +32,6 @@ If you don't remember whether or not you purchased or downloaded any uniform pac
 We will try to fix this in the future, but for now the title update will overwrite some of the modded helmets with the base game helmets. To uninstall the title update, use the following directions from Microsoft found [here](https://support.xbox.com/en-US/help/xbox-360/console/clear-system-cache).
 
 ---------
-## Rosters
-For the best experience, download the latest roster down below. This roster is specifically designed and optimized for the College Football Revamped Mod. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
-
-[An offline version of the file can be downloaded, here.](https://github.com/cfbrevamped/CFBR-Easy-Installer/raw/master/assets/ROSTER-NCAAVIKES22.MC02)
-
----------
 ## XBOX 360 Installation Instructions
 
 ### 1) If you have a disc copy, just follow the instructions in the following videos on how to get the game files in the correct format
