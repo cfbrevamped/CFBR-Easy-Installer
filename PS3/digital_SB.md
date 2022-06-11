@@ -26,6 +26,7 @@ Everything here is only needed for first time setup, aside from the console itse
 3) Move over to your computer and download the following files:
   - [**PART A (~3GB)**](https://www.mediafire.com/file/l42e90rtg8yudtb/CFBR_PS3_PSN_EASY_INSTALLER_V18_PART_A.pkg/file)
   - [**PART B (~3GB)**](https://www.mediafire.com/file/alja64ekgijs79c/CFBR_PS3_PSN_EASY_INSTALLER_V18_PART_B.pkg/file)
+  - [**PART B (~3GB)**](https://www.mediafire.com/file/ivkfibq1f6o370k/CFBR_PS3_PSN_EASY_INSTALLER_V18_PART_C.pkg/file)
 
 4) Drag and drop all files onto the root of your USB drive (this means they should not be inside any folder)
 5) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR_PS3_PSN_EASY_INSTALLER_V18_PART_A.pkg` and `CFBR_PS3_PSN_EASY_INSTALLER_V18_PART_B.pkg`. Select Part A and wait for it to finish installing, then select Part B and wait for that to finish installing. Please note, Part A will take longer than Part B. If you get an error while installing, go back to the main menu and click on the "enable HEN" button and try again.
