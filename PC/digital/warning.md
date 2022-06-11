@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/digital/buttons.md"><img width="500" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png"></a>
+  <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/digital/scorebug_warning.md"><img width="500" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png"></a>
 </p>
 
 # READ BEFORE CONTINUING

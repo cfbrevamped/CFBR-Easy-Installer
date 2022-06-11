@@ -1,4 +1,4 @@
-# College Football Revamped v17.1 Update
+# College Football Revamped v18 Update
 
 <p align="center">
   <img width="750" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png">
@@ -31,8 +31,8 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 ## Current Releases:
 | **System** | **Release** | **Release Date** | **Patch Notes** |
 |:----|:----|:----|:----|
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v17.1 | 1/6/2022 | [v17.1 PC Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v17.1 | 1/6/2022 | [v17.1 PS3 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v18 | 6/11/2022 | [v18 PC Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v18 | 6/11/2022 | [v18 PS3 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
 | <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> | v17.1 | 1/6/2022 | [v17.1 XBOX 360 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/xbox.md)
 
 ## Select Your Device - (PC, PS3, or XBOX 360)
@@ -41,7 +41,7 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 | [PC](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md) | [PS3](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md) | [XBOX 360](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/xbox_warning.md) |
 
 ---------
-## Future Releases (Dates TBD)
+## Past & Future Releases (Dates TBD)
 - **v10 (Released 3/27/2021):** Big 10 - Part 2
   - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Indiana_Hoosiers_logo.svg/1200px-Indiana_Hoosiers_logo.svg.png"> Indiana, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maryland_Terrapins_logo.svg/1200px-Maryland_Terrapins_logo.svg.png"> Maryland, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Michigan_State_Athletics_logo.svg/1200px-Michigan_State_Athletics_logo.svg.png"> Michigan State, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nebraska_Cornhuskers_logo.svg/1200px-Nebraska_Cornhuskers_logo.svg.png"> Nebraska, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Penn_State_Nittany_Lions_logo.svg/1200px-Penn_State_Nittany_Lions_logo.svg.png"> Penn State, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Purdue_Boilermakers_logo.svg/1280px-Purdue_Boilermakers_logo.svg.png"> Purdue, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/1153px-Rutgers_Scarlet_Knights_logo.svg.png"> Rutgers, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Arkansas_State_Red_Wolves_logo.svg/1200px-Arkansas_State_Red_Wolves_logo.svg.png"> Arkansas State, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Georgia_State_Athletics_logo.svg/1200px-Georgia_State_Athletics_logo.svg.png"> Georgia State, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Troy_Trojans_logo.svg/1200px-Troy_Trojans_logo.svg.png"> Troy
 - **v11 (Released 4/24/2021):** Pac-12 - Part 1
@@ -57,7 +57,8 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 - **v16 (Released 11/6/2021):** C-USA
   - <img height="20" src="https://upload.wikimedia.org/wikipedia/en/4/40/Florida_Atlantic_Owls_logo.svg"> FAU, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/1/1d/FIU_Panthers_logo.svg"> FIU, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/8/86/Louisiana_Tech_Athletics_logo.svg"> Louisiana Tech, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Marshall_Thundering_Herd_logo.svg"> Marshall, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Middle_Tennessee_MT_Logomark.svg"> Middle Tennessee, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Old_Dominion_Athletics_wordmark.svg"> Old Dominion, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rice_Owls_logo.svg"> Rice, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg"> Southern Miss, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/f/ff/UAB_Blazers_logo.svg"> UAB, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/0/06/UTEP_Miners_logo.svg"> UTEP, <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/84/UTSA_Roadrunners_logo.svg"> UTSA, <img height="20" src="https://upload.wikimedia.org/wikipedia/en/1/1d/WKU_Athletics_logo.svg"> Western Kentucky
 - **v17 (Released 1/1/2022):** SEC Redo
-- **v18+:** (TBA)
-
+- **v18 (Released 6/11/2022):** ACC & More
+- **v19 (TBA):** 2022 - 2023 Season Update
+- **v20+:** TBA
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
