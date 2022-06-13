@@ -7,7 +7,7 @@
 - Updated loading screens
 - Updated or added the following stadiums from Madden 17:
     - Chick-fil-a Kickoff, Fiesta Bowl, LA Bowl, Orange Bowl, Peach Bowl, & Sugar Bowl
-- Updated roster for V18 (Most recent 2021 - 2022)
+- Updated roster for V18 (Most recent 2021 - 2022 roster, PC Only)
 
 **Team Updates:**
 - Updated uniform assets for the following teams:
