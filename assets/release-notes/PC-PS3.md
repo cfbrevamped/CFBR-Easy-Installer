@@ -52,9 +52,10 @@
 - Updated the National Championship for the 2022 Season
 - Updated the Fiesta Bowl
 - Updated the Gator Bowl
-- Updated Florida-Georgia stadium
+- Updated Georgia/Florida stadium
 - Updated all FIU assets to James Madison
 - Updated Conference logo's on Old Dominion, Marshall, and Southern Miss
+- Tweaked night lighting
 
 ---------
 
