@@ -3,7 +3,7 @@
 ## Rosters
 For the best experience, download the latest roster from Vikesfan and his team as seen below. This roster is specifically designed and optimized for the College Football Revamped Mod. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
 
-- The latest roster updates, as well as an offline file can be found [here](https://forums.operationsports.com/forums/ncaa-football-rosters/981086-ncaa-football-14-2021-2022-roster-update.html)
+- The latest roster updates, as well as an offline file can be found [here](https://forums.operationsports.com/forums/ncaa-football-rosters/995328-ncaa-football-14-2022-2023-roster-update.html)
 
 ---------
 
