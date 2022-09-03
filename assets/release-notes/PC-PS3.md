@@ -1,5 +1,63 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V19 - 2022 - 2023 Season Update (Released 9/3/2022):
+
+**Major Updates:**
+- Updated intro video
+- Updated the cover athlete
+- Updated loading screens
+- Updated play now panels
+- Updated roster for V19 (Most recent 2022 - 2023 roster, Included on PC Only)
+- Added James Madison
+
+**Team Updates:**
+- Updated uniform assets for the following teams:
+- FCS Midwest
+  - Added Central Arkansas
+  - Added Drake
+  - Added Illinois St.
+  - Added Missouri St.
+  - Added Nicholls St.
+  - Added North Dakota
+  - Added North Dakota St.
+  - Added South Dakota
+  - Added South Dakota St.
+  - Added SE Missouri St.
+  - Added Southern Illinois
+  - Added Northern Iowa
+  - Added Youngstown St.
+- FCS Northwest (FBS Generic)
+  - Added FBS Generic
+  - Added FIU
+- Arizona
+- Illinois
+- James Madison
+- Kansas
+- Maryland
+- Michigan State
+- Ohio State
+- Oklahoma
+- Purdue
+- Texas
+
+**General Updates, Tweaks, and Fixes:**
+- Fixed Arizona pants
+- Fixed Boise State black helmet
+- Fixed misc. Kansas assets
+- Fixed Michigan having 2 types of the same helmet
+- Fixed Wisconsin red gloves
+- Fixed SMU blue-chrome helmet name
+- Fixed Minnesota "Home" preset helmet
+- Updated the "2021 Season" graphic to "2022 Season"
+- Updated the National Championship for the 2022 Season
+- Updated the Fiesta Bowl
+- Updated the Gator Bowl
+- Updated Florida-Georgia stadium
+- Updated all FIU assets to James Madison
+- Updated Conference logo's on Old Dominion, Marshall, and Southern Miss
+
+---------
+
 ## V18 - ACC & More (Released 6/11/2022):
 
 **Major Updates:**
