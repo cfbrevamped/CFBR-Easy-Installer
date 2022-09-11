@@ -68,7 +68,7 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ### 4) (NEW!!!) CFBR DLC Installation
 - IMPORTANT: If you previously installed CFBR using our other DLC file, you MUST delete them and ONLY install the ones provided
 - All users need to install these extra DLC files
-- Download the DLC files below (DLC #1 - DLC #5)
+- Download the DLC file below and unzip it
 - Locate the "Content" folder on your USB
 - Create the following path on your computer: USB: Content\0000000000000000\454109B6\00000002. (If you are running your game from HDD, you can create the same path on your Xbox using one of the various dashboards: XEX, Aurora or Freestyle, and then transfer the DLC file from USB to HDD)
 - Place the DLC files in 00000002 folder
@@ -80,17 +80,13 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ## DOWNLOAD LINKS (you need all of them)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
 
-- [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/3n5howtgiyma52r/qkl_fe2ig.ast/file)
-- [File 2 (qkl_boot)](https://www.mediafire.com/file/j56pkhmhskfsq7w/qkl_boot.ast/file)
-- [File 3 (qkl_misc)](https://www.mediafire.com/file/wxcmvyydgzwu6cj/qkl_misc.ast/file)
-- [File 4 (qkl_interface)](https://www.mediafire.com/file/96xlwounzew6lw7/qkl_interface.ast/file)
-- [File 5 (qkl_stream)](https://www.mediafire.com/file/gj7jkee4d778bha/qkl_stream.ast/file)
+- [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/vt0c8j6gfen1svr/qkl_fe2ig.ast/file)
+- [File 2 (qkl_boot)](https://www.mediafire.com/file/pj392kle3uujuhj/qkl_boot.ast/file)
+- [File 3 (qkl_misc)](https://www.mediafire.com/file/u7vi934rk0dav4e/qkl_misc.ast/file)
+- [File 4 (qkl_interface)](https://www.mediafire.com/file/iug34g5ocb33u5y/qkl_interface.ast/file)
+- [File 5 (qkl_stream)](https://www.mediafire.com/file/b88gfxe7yj0zj6n/qkl_stream.ast/file)
 - [File 6 (qkl_cache)](https://www.mediafire.com/file/0s2dmrsex2cpy67/qkl_cache.ast/file)
-- [File 7 (DLC #1)](https://www.mediafire.com/file/d2oyn02q3m2h36b/CFBR-XBOX-DLC1/file)
-- [File 8 (DLC #2)](https://www.mediafire.com/file/2etegw1vj04gtw9/CFBR-XBOX-DLC2/file)
-- [File 9 (DLC #3)](https://www.mediafire.com/file/z2zc51zdpr0yw1g/CFBR-XBOX-DLC3/file)
-- [File 10 (DLC #4)](https://www.mediafire.com/file/djlbnrli1ljisk0/CFBR-XBOX-DLC4/file)
-- [File 11 (DLC #5)](https://www.mediafire.com/file/dgyb2dhwewa7x29/CFBR-XBOX-DLC5/file)
+- [File 7 (DLC)](https://www.mediafire.com/file/vcevvd4olzpblot/Xbox_DLCs.rar/file)
 - BE SURE YOU HAVE READ STEP 4 BEFORE INSTALLING DLC!
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
