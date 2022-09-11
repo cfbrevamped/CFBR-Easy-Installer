@@ -1,5 +1,70 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V18 - ACC & More (Released 9/11/2022):
+
+**Major Updates:**
+- Updated intro video
+- Updated loading screens
+- Updated or added the following stadiums from Madden 17:
+    - Chick-fil-a Kickoff, Fiesta Bowl, LA Bowl, Orange Bowl, Peach Bowl, & Sugar Bowl
+- Updated roster for V18 (Most recent 2021 - 2022 roster, PC Only)
+
+**Team Updates:**
+- Updated uniform assets for the following teams:
+    - Air Force
+    - App State
+    - Arizona State
+    - Arkansas
+    - Baylor
+    - Boise State
+    - Boston College
+    - BYU
+    - Clemson
+    - Duke
+    - Florida State
+    - Georgia
+    - Georgia Tech
+    - Houston
+    - Iowa State
+    - Kansas State
+    - Kent State
+    - Louisville
+    - Memphis
+    - Miami (FL)
+    - Minnesota
+    - Navy
+    - NC State
+    - Nebraska
+    - North Carolina
+    - Northwestern
+    - Oklahoma State
+    - Pitt
+    - San Jose State
+    - SMU
+    - Stanford
+    - Syracuse
+    - TCU
+    - Tennessee
+    - Texas A&M
+    - Texas Tech
+    - Toledo
+    - Tulane
+    - UNLV
+    - Virginia
+    - Virginia Tech
+    - Wake Forest
+    - West Virginia
+
+**General Updates, Tweaks, and Fixes:**
+- Fixed duplicate Michigan helmet
+- Fixed San Jose State bowl endzone
+- Updated the "Who's In" graphic
+- Updated the bowl patch positioning for Penn State
+- Updated Arkansas' field & bowl endzone
+- Reverted USC's stadium to Pre-V17
+
+---------
+
 ## V17.1 - Quickfix (Released 1/6/2022):
 
 **Major Updates:**
