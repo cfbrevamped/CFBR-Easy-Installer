@@ -3,6 +3,7 @@
 ---------
 ### - These instructions are only for users with a physical disc copy of NCAA Football 14 (game ID BLUS31159). 
 ### - DO NOT USE THESE INSTRUCTIONS IF YOU BOUGHT THE GAME ON THE PSN STORE. CLICK [HERE](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/digital.md) FOR DIGITAL COPY INSTRUCTIONS.
+### - If you'd like a video walkthrough of how to install College Football Revamped step-by-step (including the latest roster offline), then please CLICK [HERE](https://www.youtube.com/watch?v=z2bsIa_UFEg). 
 ---------
 
 ### Prerequisites:
