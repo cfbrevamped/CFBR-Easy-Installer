@@ -86,6 +86,7 @@ We apologize for having to use this site to host our files. We know it has slowe
 - [File 4 (qkl_interface)](https://www.mediafire.com/file/jxdc23yp2rd505u/qkl_interface.ast/file)
 - [File 5 (qkl_stream)](https://www.mediafire.com/file/b88gfxe7yj0zj6n/qkl_stream.ast/file)
 - [File 6 (qkl_cache)](https://www.mediafire.com/file/0s2dmrsex2cpy67/qkl_cache.ast/file)
+#### BE SURE TO UNZIP THE .RAR DLC FILE!!!
 - [File 7 (DLC)](https://www.mediafire.com/file/vcevvd4olzpblot/Xbox_DLCs.rar/file)
 - BE SURE YOU HAVE READ STEP 4 BEFORE INSTALLING DLC!
 ---------
