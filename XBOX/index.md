@@ -71,6 +71,7 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 - Download the DLC file below and unzip it
 - Locate the "Content" folder on your USB
 - Create the following path on your computer: USB: Content\0000000000000000\454109B6\00000002. (If you are running your game from HDD, you can create the same path on your Xbox using one of the various dashboards: XEX, Aurora or Freestyle, and then transfer the DLC file from USB to HDD)
+- Unzip the DLC .rar file
 - Place the DLC files in 00000002 folder
 - You will know it worked if UTEP has all of their helmets
 
@@ -79,6 +80,8 @@ If you are struggling at any point, you can also try to refer to [this video](ht
 ---------
 ## DOWNLOAD LINKS (you need all of them)
 We apologize for having to use this site to host our files. We know it has slower download speeds than Google Drive, but it is a reliable site that offers free hosting. We had to stop using Google Drive because there were too many of you trying to download the files! Maybe someday we can host the files ourself, but for now, just use these links. There should be no messages about too many people downloading the file anymore.
+
+#### BE SURE TO UNZIP THE .RAR DLC FILE!!!
 
 - [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/vt0c8j6gfen1svr/qkl_fe2ig.ast/file)
 - [File 2 (qkl_boot)](https://www.mediafire.com/file/pj392kle3uujuhj/qkl_boot.ast/file)
