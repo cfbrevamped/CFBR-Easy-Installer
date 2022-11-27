@@ -1,5 +1,65 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V19 - 2022 - 2023 Season Update (Released 11/27/2022):
+
+**Major Updates:**
+- Updated intro video
+- Updated the cover athlete
+- Updated loading screens
+- Updated play now panels
+- Updated roster for V19 (Most recent 2022 - 2023 roster, Included on PC Only)
+- Added James Madison
+
+**Team Updates:**
+- Updated uniform assets for the following teams:
+- FCS Midwest
+  - Added Central Arkansas
+  - Added Drake
+  - Added Illinois St.
+  - Added Missouri St.
+  - Added Nicholls St.
+  - Added North Dakota
+  - Added North Dakota St.
+  - Added South Dakota
+  - Added South Dakota St.
+  - Added SE Missouri St.
+  - Added Southern Illinois
+  - Added Northern Iowa
+  - Added Youngstown St.
+- FCS Northwest (FBS Generic)
+  - Added FBS Generic
+  - Added FIU
+- Arizona
+- Illinois
+- James Madison
+- Kansas
+- Maryland
+- Michigan State
+- Ohio State
+- Oklahoma
+- Purdue
+- Texas
+
+**General Updates, Tweaks, and Fixes:**
+- Fixed Arizona pants
+- Fixed Boise State black helmet
+- Fixed misc. Kansas assets
+- Fixed Michigan having 2 types of the same helmet
+- Fixed Ohio State throwback helmet
+- Fixed Wisconsin red gloves
+- Fixed SMU blue-chrome helmet name
+- Fixed Minnesota "Home" preset helmet
+- Updated the "2021 Season" graphic to "2022 Season"
+- Updated the National Championship for the 2022 Season
+- Updated the Fiesta Bowl
+- Updated the Gator Bowl
+- Updated Georgia/Florida stadium
+- Updated all FIU assets to James Madison
+- Updated Conference logo's on Old Dominion, Marshall, and Southern Miss
+- Tweaked night lighting
+
+---------
+
 ## V18 - ACC & More (Released 9/11/2022):
 
 **Major Updates:**
