@@ -1,5 +1,18 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V19.1 - Quickfix (Released 12/18/2022):
+
+**Team Updates:**
+- Fixed Indiana DLC helmets freezing
+- Fixed Kansas Hail to Old KU helmet
+- Fixed Louisville Military Appreciation uniforms not showing up during games
+- Fixed Louisville white USA & black USA helmets
+- Fixed Missouri helmets
+- Texas State white helmet
+- Fixed USF chrome green helmet
+
+---------
+
 ## V19 - 2022 - 2023 Season Update (Released 11/27/2022):
 
 **Major Updates:**
@@ -129,6 +142,8 @@
 
 **Major Updates:**
 - Users can now select whether or not to use the new scorebug
+
+---------
 
 ## V17 - SEC Redo (Released 1/1/2022):
 
