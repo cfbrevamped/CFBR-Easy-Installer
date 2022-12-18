@@ -8,7 +8,7 @@
 - Fixed Louisville Military Appreciation uniforms not showing up during games
 - Fixed Louisville white USA & black USA helmets
 - Fixed Missouri helmets
-- Texas State white helmet
+- Fixed Texas State white helmet
 - Fixed USF chrome green helmet
 
 ---------
