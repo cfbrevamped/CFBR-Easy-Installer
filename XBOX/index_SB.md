@@ -89,7 +89,7 @@ We apologize for having to use this site to host our files. We know it has slowe
 - [File 4 (qkl_interface)](https://www.mediafire.com/file/uwifu6nzldhkbq7/qkl_interface.ast/file)
 - [File 5 (qkl_stream)](https://www.mediafire.com/file/cj9183ha3q48phe/qkl_stream.ast/file)
 - [File 6 (qkl_cache)](https://www.mediafire.com/file/0s2dmrsex2cpy67/qkl_cache.ast/file)
-- [File 7 (DLC)](https://www.mediafire.com/file/lkk1zm51bz57obg/DLC.rar/file)
+- [File 7 (DLC)](https://www.mediafire.com/file/jh9t9e02653ck3m/DLC.rar/file)
 - BE SURE YOU HAVE READ STEP 4 BEFORE INSTALLING DLC!
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
