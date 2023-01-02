@@ -1,5 +1,42 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V20 - Big 10 & Postseason Update (Released 1/1/2023):
+
+**Major Updates:**
+- Updated intro video
+- Updated the cover athlete
+- Updated loading screens
+- Updated scorebug to better resemble the 2022 - 2023 season
+- Updated roster for V20 (Most recent 2022 - 2023 roster, Included on PC Only)
+- Made slight adjustments to player models
+
+**Team Updates:**
+ - Updated uniform assets for the following teams:
+  - Arkansas
+  - Cal
+  - Florida
+  - Illinois
+  - Indiana
+  - Iowa
+  - Michigan
+  - Michigan State
+  - Minnesota
+  - Nebraska
+  - Northwestern
+  - Oklahoma
+  - Penn State
+  - Purdue
+  - Rutgers
+  - Tennessee
+  - UCF
+  - Wisconsin
+
+**General Updates, Tweaks, and Fixes:**
+- Fixed Ohio State "1913 Throwback" jersey
+- Removed "New Mexico State" sign from Coastal Carolina's stadium
+
+---------
+
 ## V19.1 - Quickfix (Released 12/18/2022):
 
 **Team Updates:**
