@@ -28,7 +28,7 @@ Everything here is only needed for first time setup, aside from the console itse
 4) This should take anywhere from 15-30 minutes to copy all the files over. Once it is done, you can click Square to continue. Then eject your disc (you will never need your disc again, you can keep it in the case forever) and quit out of multiMAN. If you got an error saying the process was aborted, please clean your disc and try again. 
 5) Move over to your computer and download the following files:
   - [**PART A (~3GB)**](https://www.mediafire.com/file/586lcksbop56t0y/CFBR_PS3_DISC_EASY_INSTALLER_V20.1_PART_A.pkg/file)
-  - [**PART B (~3GB)**](https://www.mediafire.com/file/zj8flk7trum8a57/CFBR_PS3_DISC_EASY_INSTALLER_V20.1_PART_B.pkg/file)
+  - [**PART B (~3GB)**](https://www.mediafire.com/file/2cl97sz9baoy2zv/CFBR_PS3_DISC_EASY_INSTALLER_V20.1_PART_B.pkg/file)
 
 6) Drag and drop all files onto the root of your USB drive (this means they should not be inside any folder).
 7) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR_PS3_DISC_EASY_INSTALLER_V20.1_PART_A.pkg` and `CFBR_PS3_DISC_EASY_INSTALLER_V20.1_PART_B.pkg`. Select Part A and wait for it to finish installing, then select Part B and wait for that to finish installing. Please note, Part A will take longer than Part B. If you get an error while installing, go back to the main menu and click on the "enable HEN" button and try again.
