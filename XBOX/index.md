@@ -83,13 +83,13 @@ We apologize for having to use this site to host our files. We know it has slowe
 
 #### BE SURE TO UNZIP THE .RAR DLC FILE!!!
 
-- [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/hob6qxn5idvh9ae/qkl_fe2ig.ast/file)
-- [File 2 (qkl_boot)](https://www.mediafire.com/file/vq9hzqyvpv80hha/qkl_boot.AST/file)
+- [File 1 (qkl_fe2ig)](https://www.mediafire.com/file/gb03q4sgyf5h0wk/qkl_fe2ig.ast/file)
+- [File 2 (qkl_boot)](https://www.mediafire.com/file/ykrz8uuq2rw2mav/qkl_boot.ast/file)
 - [File 3 (qkl_misc)](https://www.mediafire.com/file/wwqmwlvjwuyfi7r/qkl_misc.ast/file)
-- [File 4 (qkl_interface)](https://www.mediafire.com/file/nvhfrm67jt6w6av/qkl_interface.ast/file)
+- [File 4 (qkl_interface)](https://www.mediafire.com/file/eoljb15qbsjof7y/qkl_interface.ast/file)
 - [File 5 (qkl_stream)](https://www.mediafire.com/file/cj9183ha3q48phe/qkl_stream.ast/file)
-- [File 6 (qkl_cache)](https://www.mediafire.com/file/0s2dmrsex2cpy67/qkl_cache.ast/file)
-- [File 7 (DLC)](https://www.mediafire.com/file/jh9t9e02653ck3m/DLC.rar/file)
+- [File 6 (qkl_cache)](https://www.mediafire.com/file/590s9mh2vsfxbhk/qkl_cache.ast/file)
+- [File 7 (DLC)](https://www.mediafire.com/file/4z0m1qdywec3tli/DLC.rar/file)
 - BE SURE YOU HAVE READ STEP 4 BEFORE INSTALLING DLC!
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
