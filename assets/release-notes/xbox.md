@@ -1,5 +1,26 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V20.1 - Quickfix (Released 1/13/2023):
+
+**Team Updates:**
+ - Updated uniform assets for the following teams:
+  - Ole Miss
+  - Oregon
+
+**General Updates, Tweaks, and Fixes:**
+- Reverted lighting changes to Pre-V19
+- Updated scorebug to fix misc. issues
+- Updated Tennessee Mascot textures
+- Fixed Buffalo & Wisconsin helmets
+- Fixed Cincinnati white helmet
+- Fixed Indiana helmet crashing
+- Fixed Iowa's black jersey
+- Fixed JMU mixmatch issues
+- Fixed Marshall green pants
+- Fixed Ohio State crashing
+- Fixed Oklahoma Jordan 1 cleats
+- Tweaked colors on Florida's field & helmets
+
 ## V20 - Big 10 & Postseason Update (Released 1/1/2023):
 
 **Major Updates:**
