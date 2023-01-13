@@ -1,5 +1,21 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V20.1 - Quickfix (Released 1/13/2023):
+
+**Team Updates:**
+ - Updated uniform assets for the following teams:
+  - Ole Miss
+  - Oregon
+
+**General Updates, Tweaks, and Fixes:**
+- Reverted lighting changes to Pre-V19
+- Updated scorebug to fix misc. issues
+- Updated Tennessee Mascot textures
+- Fixed Buffalo & Wisconsin helmets
+- Fixed Indiana helmet crashing
+- Fixed Iowa's black jersey
+- Tweaked colors on Florida's field & helmets
+
 ## V20 - Big 10 & Postseason Update (Released 1/1/2023):
 
 **Major Updates:**
