@@ -1,5 +1,69 @@
 # <img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PC.jpg"><img width="50" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/PS3.png"> College Football Revamped - PC and PS3 Release Patch Notes 
 
+## V21 - 2022 - 2023 Season Update (Released 9/6/2023):
+
+**Major Updates:**
+- Added the team swapper into the Dynasty Tool
+- Updated in game lighting
+- Updated intro video
+- Updated the cover athlete
+- Updated loading screens
+- Updated rosters for V21 (Final 2022 - 2023 roster & most recent 2023 - 2024 roster, Included on PC Only)
+- Made slight adjustments to player models
+
+**Dynasty Tool:**
+- Added the Team Swapper tool to the Dynasty tool
+- Added the 12-team playoff
+- [Dynasty Tool Download](https://github.com/Bowersrd/NCAA14DynastyToolRelease/releases/tag/v2.0.0)
+
+**Team Updates:**
+ - Updated uniform assets for the following teams:
+  - Arizona
+  - BYU
+  - Charlotte
+  - Cincinnati
+  - Colorado
+  - FAU
+  - Houston
+  - Iowa State
+  - Kansas
+  - Oregon State
+  - Rice
+  - Stanford
+  - UAB
+  - UCF
+  - UNT
+  - Utah
+  - UTSA
+  - Washington
+
+**Team Swapper Team Updates (Dynasty Tool):**
+ - Added the following teams:
+  - Central Arkansas
+  - Chattanooga
+  - Drake
+  - Eastern Washington
+  - Grambling State
+  - Illinois State
+  - Missouri State
+  - Montana
+  - Nicholls State
+  - North Dakota
+  - North Dakota State
+  - Sacred Heart
+  - South Dakota
+  - South Dakota State
+  - Southeast Missouri State
+  - Southern Illinois
+  - The Citadel
+  - UNI
+  - Youngstown State
+
+**General Updates, Tweaks, and Fixes:**
+- Fixed Oklahoma's stadium
+
+---------
+
 ## V20.1 - Quickfix (Released 1/13/2023):
 
 **Team Updates:**
@@ -15,6 +79,8 @@
 - Fixed Indiana helmet crashing
 - Fixed Iowa's black jersey
 - Tweaked colors on Florida's field & helmets
+
+---------
 
 ## V20 - Big 10 & Postseason Update (Released 1/1/2023):
 

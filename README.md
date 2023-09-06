@@ -1,4 +1,4 @@
-# College Football Revamped v20.1 Update
+# College Football Revamped v21 Update
 
 <p align="center">
   <img width="750" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png">
@@ -31,8 +31,8 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 ## Current Releases:
 | **System** | **Release** | **Release Date** | **Patch Notes** |
 |:----|:----|:----|:----|
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v20.1 | 1/13/2023 | [v20.1 PC Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v20.1 | 1/13/2023 | [v20.1 PS3 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v21 | 9/6/2023 | [v21 PC Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
+| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v21 | 9/6/2023 | [v21 PS3 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
 | <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> | v20.1 | 1/13/2023 | [v20.1 XBOX 360 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/xbox.md)
 
 ## Select Your Device - (PC, PS3, or XBOX 360)
@@ -60,6 +60,7 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 - **v18 (Released 6/11/2022):** ACC & More
 - **v19 (Released 9/3/2022):** 2022 - 2023 Season Update
 - **v20 (Released 1/1/2023):** Big 10 & Postseason Update
-- **v21+:** TBA
+- **v21 (Released 9/6/2023):** 2023 - 2024 Season Update
+- **v22+:** TBA
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
