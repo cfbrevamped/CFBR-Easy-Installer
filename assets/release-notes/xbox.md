@@ -1,5 +1,66 @@
 # <img width="50" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> College Football Revamped - XBOX 360 Release Patch Notes
 
+## V21 - 2022 - 2023 Season Update (Released 9/6/2023):
+
+**Major Updates:**
+- Added the team swapper into the Dynasty Tool 
+ - Teams will be added in future DLC release
+- Updated in game lighting
+- Updated intro video
+- Updated the cover athlete
+- Updated loading screens
+- Made slight adjustments to player models
+
+**Dynasty Tool:**
+- Added the Team Swapper tool to the Dynasty tool
+- Added the 12-team playoff
+- [Dynasty Tool Download](https://github.com/Bowersrd/NCAA14DynastyToolRelease/releases/tag/v2.0.0)
+
+**Team Updates:**
+ - Updated uniform assets for the following teams:
+  - Arizona
+  - BYU
+  - Charlotte
+  - Cincinnati
+  - Colorado
+  - FAU
+  - Houston
+  - Iowa State
+  - Kansas
+  - Oregon State
+  - Rice
+  - Stanford
+  - UAB
+  - UCF
+  - UNT
+  - Utah
+  - UTSA
+  - Washington
+
+**Team Swapper Team Updates (Not currently available):**
+ - Added the following teams:
+  - Central Arkansas
+  - Chattanooga
+  - Drake
+  - Eastern Washington
+  - Grambling State
+  - Illinois State
+  - Missouri State
+  - Montana
+  - Nicholls State
+  - North Dakota
+  - North Dakota State
+  - Sacred Heart
+  - South Dakota
+  - South Dakota State
+  - Southeast Missouri State
+  - Southern Illinois
+  - The Citadel
+  - UNI
+  - Youngstown State
+
+---------
+
 ## V20.1 - Quickfix (Released 1/13/2023):
 
 **Team Updates:**
